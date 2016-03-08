@@ -1,0 +1,165 @@
+11289006,3,p_dogum_yer,,
+11289006,3,p_dogum_tar,,
+11289006,4,p_olum_tar,907),,2 mayıs 907
+11458284,2,p_dogum_yer,istanbul'a,
+11458284,3,p_dogum_tar,,
+11458284,1,p_olum_tar,1603'de,4 ekim 1603
+11747478,5,p_dogum_yer,,
+11747478,5,p_dogum_tar,,
+11747478,5,p_olum_tar,,1608
+11811135,3,p_dogum_yer,,
+11811135,2,p_dogum_tar,1982,
+11811135,1,p_olum_tar,2001,2001,09,5
+11873328,3,p_dogum_yer,,
+11873328,2,p_dogum_tar,1987,
+11873328,4,p_olum_tar,836),,836
+11873330,3,p_dogum_yer,,
+11873330,2,p_dogum_tar,1987,
+11873330,5,p_olum_tar,,30 ocak 970
+11885748,3,p_dogum_yer,,
+11885748,2,p_dogum_tar,1503,,
+11885748,4,p_olum_tar,1466-1467,,1503
+11888158,3,p_dogum_yer,,
+11888158,3,p_dogum_tar,,
+11888158,1,p_olum_tar,1307,,1307
+11950800,3,p_dogum_yer,,
+11950800,2,p_dogum_tar,1918,,
+11950800,1,p_olum_tar,1960,,1960
+11950918,2,p_dogum_yer,connecticut|ct,,
+11950918,2,p_dogum_tar,1908,,
+11950918,1,p_olum_tar,1986,,1986,3,5
+11951020,3,p_dogum_yer,,
+11951020,2,p_dogum_tar,1749'da,
+11951020,5,p_olum_tar,,16 aralık, 1774
+11955670,2,p_dogum_yer,paşa'',
+11955670,2,p_dogum_tar,1429,
+11955670,1,p_olum_tar,1439),,1439
+12036514,3,p_dogum_yer,,
+12036514,3,p_dogum_tar,,
+12036514,4,p_olum_tar,1479’da,1487
+12128984,2,p_dogum_yer,blainville'de,
+12128984,2,p_dogum_tar,1887,
+12128984,1,p_olum_tar,1968,2 ekim, 1968
+12144641,2,p_dogum_yer,kişi,
+12144641,2,p_dogum_tar,(d.?,
+12144641,1,p_olum_tar,1655,ocak 1655
+12146554,2,p_dogum_yer,venedik,
+12146554,2,p_dogum_tar,1622,
+12146554,1,p_olum_tar,1626),temmuz 1626
+12146590,3,p_dogum_yer,,
+12146590,2,p_dogum_tar,haziran,
+12146590,1,p_olum_tar,mart,21 mart 1653
+12181755,3,p_dogum_yer,,
+12181755,2,p_dogum_tar,ocak,
+12181755,1,p_olum_tar,mayıs,mayıs 1753
+12272899,2,p_dogum_yer,bahçesaray,
+12272899,3,p_dogum_tar,,
+12272899,1,p_olum_tar,1466),,1466
+12290258,2,p_dogum_yer,çeşitli,
+12290258,2,p_dogum_tar,?,
+12290258,1,p_olum_tar,1606),21 haziran 1606
+12290979,3,p_dogum_yer,,
+12290979,2,p_dogum_tar,1735,
+12290979,1,p_olum_tar,1781),20 şubat 1781
+12316453,3,p_dogum_yer,,
+12316453,2,p_dogum_tar,olmuştur.,
+12316453,4,p_olum_tar,(ö.,1823
+12363696,3,p_dogum_yer,,
+12363696,2,p_dogum_tar,1344,
+12363696,1,p_olum_tar,1322),,m.ö. 1322
+12460252,2,p_dogum_yer,istanbul'da,
+12460252,2,p_dogum_tar,1716,
+12460252,1,p_olum_tar,1733,1733
+12460272,2,p_dogum_yer,selanik'te,
+12460272,2,p_dogum_tar,1665,
+12460272,1,p_olum_tar,1665,1665
+12460279,2,p_dogum_yer,istanbul'a,
+12460279,2,p_dogum_tar,1601,
+12460279,1,p_olum_tar,1603,4 ekim 1603
+12460429,2,p_dogum_yer,gelibolu'ya,
+12460429,2,p_dogum_tar,1775,
+12460429,1,p_olum_tar,1777,1777
+12462510,3,p_dogum_yer,,
+12462510,2,p_dogum_tar,1387'de,
+12462510,1,p_olum_tar,1406,18 aralık 1406
+12462516,3,p_dogum_yer,,
+12462516,3,p_dogum_tar,,
+12462516,1,p_olum_tar,1453),,1 haziran 1453
+12471651,3,p_dogum_yer,,
+12471651,2,p_dogum_tar,1651,
+12471651,1,p_olum_tar,1656,26 nisan 1656
+12471658,3,p_dogum_yer,,
+12471658,2,p_dogum_tar,1687,
+12471658,1,p_olum_tar,1688,1688
+12483437,3,p_dogum_yer,,
+12483437,2,p_dogum_tar,1791,,
+12483437,1,p_olum_tar,1791'de,13 şubat 1791
+12517811,3,p_dogum_yer,,
+12517811,2,p_dogum_tar,1005,
+12517811,1,p_olum_tar,1061,,1061
+12535436,3,p_dogum_yer,,
+12535436,2,p_dogum_tar,1909,
+12535436,1,p_olum_tar,1992),,1992,4,28
+12540919,3,p_dogum_yer,,
+12540919,2,p_dogum_tar,1922,,
+12540919,1,p_olum_tar,2011),2011,9,13
+12544488,2,p_dogum_yer,1474,,
+12544488,2,p_dogum_tar,ekim,
+12544488,1,p_olum_tar,kasim,5 kasim 1515
+12572862,2,p_dogum_yer,venedik'te,
+12572862,2,p_dogum_tar,1480,
+12572862,4,p_olum_tar,1577,1507
+12642832,3,p_dogum_yer,,
+12642832,2,p_dogum_tar,?,
+12642832,1,p_olum_tar,1606,9 aralık 1606
+12655679,3,p_dogum_yer,,
+12655679,3,p_dogum_tar,,
+12655679,4,p_olum_tar,boyundandır.,1037
+12664245,2,p_dogum_yer,damville,
+12664245,2,p_dogum_tar,1914,,
+12664245,1,p_olum_tar,1918,9 ekim 1918
+12709631,3,p_dogum_yer,,
+12709631,2,p_dogum_tar,1987,
+12709631,4,p_olum_tar,831),,831
+12724333,2,p_dogum_yer,1483'te,
+12724333,2,p_dogum_tar,1483,
+12724333,1,p_olum_tar,1520),6 nisan 1520
+12742381,3,p_dogum_yer,,
+12742381,2,p_dogum_tar,8th,
+12742381,4,p_olum_tar,2012}},20 mayıs 794
+12752976,3,p_dogum_yer,,
+12752976,2,p_dogum_tar,1890,
+12752976,1,p_olum_tar,1941)'',30 ekim 1941
+12754620,2,p_dogum_yer,livorno,,
+12754620,2,p_dogum_tar,1884,,
+12754620,1,p_olum_tar,1920,,1920,1,24
+12757850,3,p_dogum_yer,,
+12757850,2,p_dogum_tar,1550),,
+12757850,5,p_olum_tar,,1550
+12768209,3,p_dogum_yer,,
+12768209,3,p_dogum_tar,,
+12768209,4,p_olum_tar,584,<!--
+12768599,2,p_dogum_yer,avusturya'da,
+12768599,2,p_dogum_tar,1890,
+12768599,1,p_olum_tar,1918),,31 ekim 1918
+12768702,2,p_dogum_yer,sokrates,,
+12768702,2,p_dogum_tar,469;,
+12768702,4,p_olum_tar,399,,mö 399
+12769274,2,p_dogum_yer,eros'u,,
+12769274,3,p_dogum_tar,,
+12769274,4,p_olum_tar,347),,mö 347
+12770868,2,p_dogum_yer,hollanda'da,
+12770868,2,p_dogum_tar,1606,
+12770868,1,p_olum_tar,1669),,4 ekim 1669
+12771340,2,p_dogum_yer,velazquez,,
+12771340,2,p_dogum_tar,1599,
+12771340,1,p_olum_tar,1660),,26 haziran 1660
+12771861,2,p_dogum_yer,lippi'nin,
+12771861,2,p_dogum_tar,1445,
+12771861,1,p_olum_tar,1510).,17 mayıs 1510
+12772415,2,p_dogum_yer,paris'te,
+12772415,2,p_dogum_tar,1848,,
+12772415,1,p_olum_tar,1903),,8 mayıs 1903
+12772713,2,p_dogum_yer,stageira'da,,
+12772713,2,p_dogum_tar,384,
+12772713,4,p_olum_tar,322),mö 322 , halkis

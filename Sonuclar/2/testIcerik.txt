@@ -1,0 +1,2 @@
+1.2)  Bu 586 sayfanýn dýþýnda kalan sayfalar ile sistemi eðit sonra 586 sayfa ile test baþarý ne olacak. Gerçek baþarýyý bu gösterecektir.
+2.2) Sonraki deneme de bu 586 yý test olarak ayýr geri kalanlar ile sistemi eðit. baþarý ne oldu?

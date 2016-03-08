@@ -1,0 +1,1 @@
+2.4- Son denemede de (bunu yeni ekledim) 1897 adet infobox cross validation (CV=10) alarak çalýþtýr.

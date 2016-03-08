@@ -1,0 +1,5 @@
+1- 3 varlýk isminide içerisinde barýndýran 586 infobox ile sistemi train et sonra test et. 
+Sistemi ezberlettiðimiz için baþarý çok yüksek çýkacaktýr.
+
+
+4- Son denemede de (bunu yeni ekledim) 1897 adet infobox cross validation (CV=10) alarak çalýþtýr.

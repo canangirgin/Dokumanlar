@@ -1,0 +1,5 @@
+2.3- doðum yeri için 46, dogum tarihi için 145 ve ölüm tarihi için 55 tanesini test olarak ayýr geri kalanlar ile sistemi eðit. baþarý ne oldu.?
+
+Yada:
+
+1.3) En son senin dediðini içerisinde sadece tek bir varlýk isminin geçtiði sayfalardan her varlýk ismi için 200 sayfa ayýr toplam da 600 sayfa. Bunlarý test için ayýr, geri kalanlar ile sistemi eðit.

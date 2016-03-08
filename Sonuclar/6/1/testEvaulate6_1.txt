@@ -1,0 +1,2100 @@
+8929250,5,p_dogum_yer,,cirgen
+8929250,1,p_dogum_tar,1859,1859,11,23
+8929250,4,p_olum_tar,1906-1912,1921,11,9
+8977378,1,p_dogum_yer,brünn,brünn, çekoslavakya
+8977378,2,p_dogum_tar,1920,
+8977378,1,p_olum_tar,1987).çek,1987,4,1
+9063527,5,p_dogum_yer,,istanbul
+9063527,1,p_dogum_tar,1989'da,1 mayıs 1989
+9063527,2,p_olum_tar,20/3,
+9064111,3,p_dogum_yer,,
+9064111,1,p_dogum_tar,1980,,12 ağustos 1980
+9064111,3,p_olum_tar,,
+9086735,5,p_dogum_yer,,izmir tur
+9086735,1,p_dogum_tar,1988,1988,1,11
+9086735,3,p_olum_tar,,
+9207348,5,p_dogum_yer,,çumra, konya
+9207348,1,p_dogum_tar,1934-konya,,1934
+9207348,1,p_olum_tar,15.04.1992,1992
+9253554,4,p_dogum_yer,newsweek'te,kopenhag, danimarka
+9253554,1,p_dogum_tar,1956,,5 haziran1956
+9253554,2,p_olum_tar,2010,
+9342334,1,p_dogum_yer,niğde),,niğde
+9342334,1,p_dogum_tar,1971,,1971
+9342334,3,p_olum_tar,,
+9436874,3,p_dogum_yer,,
+9436874,1,p_dogum_tar,1971,1971,5,27
+9436874,2,p_olum_tar,2008,
+9511348,1,p_dogum_yer,istanbul'da,istanbul, türkiye
+9511348,1,p_dogum_tar,1975-,1 nisan 1975
+9511348,2,p_olum_tar,2002,
+9624435,5,p_dogum_yer,,istanbul, türkiye
+9624435,1,p_dogum_tar,1983,1983,11,07
+9624435,3,p_olum_tar,,
+9637783,2,p_dogum_yer,istanbul),,
+9637783,1,p_dogum_tar,1971,,1971,08,30
+9637783,2,p_olum_tar,1992,
+9645769,3,p_dogum_yer,,
+9645769,1,p_dogum_tar,1980,1980
+9645769,2,p_olum_tar,2009}},
+9648204,5,p_dogum_yer,,ermenek, karaman,
+9648204,5,p_dogum_tar,,1920
+9648204,5,p_olum_tar,,2 nisan 1971
+9707971,5,p_dogum_yer,,türkiye , konya
+9707971,5,p_dogum_tar,,2 ağustos 1960
+9707971,2,p_olum_tar,1980,
+9726413,1,p_dogum_yer,bursa,bursa
+9726413,1,p_dogum_tar,1981,,1981,9,21
+9726413,2,p_olum_tar,1999'da,,
+9734883,5,p_dogum_yer,,osmanlı devleti
+9734883,2,p_dogum_tar,1922’de,
+9734883,1,p_olum_tar,1919),,10 nisan 1919
+9738356,1,p_dogum_yer,manitoba),,kanada , manitoba
+9738356,1,p_dogum_tar,1949,,17 mart 1949
+9738356,2,p_olum_tar,1975'te,
+9801668,1,p_dogum_yer,eskişehir,eskişehir türkiye
+9801668,1,p_dogum_tar,1974,1974
+9801668,2,p_olum_tar,1992,
+9900565,3,p_dogum_yer,,
+9900565,1,p_dogum_tar,1955,1955
+9900565,3,p_olum_tar,,
+9946153,2,p_dogum_yer,karşıyaka,,
+9946153,1,p_dogum_tar,1949,,1949,1,13
+9946153,1,p_olum_tar,2004),2004,11,2
+9950932,4,p_dogum_yer,ankara'da,türkiye
+9950932,4,p_dogum_tar,1998-1999),23 haziran 1976
+9950932,2,p_olum_tar,2002,
+9975497,1,p_dogum_yer,hatay),,hatay,türkiye
+9975497,1,p_dogum_tar,1962,,1962,1,1
+9975497,2,p_olum_tar,1997-98,
+10048073,1,p_dogum_yer,bursa),,bursa tur
+10048073,1,p_dogum_tar,1981,,1981,2,1
+10048073,3,p_olum_tar,,
+10111520,1,p_dogum_yer,ankara),,ankara, türkiye
+10111520,1,p_dogum_tar,1958,,1958
+10111520,2,p_olum_tar,1975,
+10225379,1,p_dogum_yer,devletleri'nde,west haven, amerika birleşik devletleri,a.b.d.
+10225379,5,p_dogum_tar,,1977,8,7
+10225379,3,p_olum_tar,,
+10246764,1,p_dogum_yer,istanbul),istanbul, türkiye
+10246764,1,p_dogum_tar,1975,,1975,10,19
+10246764,2,p_olum_tar,1993,
+10303411,5,p_dogum_yer,,lichtenvoorde,  hollanda
+10303411,1,p_dogum_tar,1967),1967,12,8
+10303411,2,p_olum_tar,1998,
+10395741,1,p_dogum_yer,kayseri),kayseri,türkiye
+10395741,1,p_dogum_tar,1980,,5 ocak 1980
+10395741,2,p_olum_tar,2009-2010,
+10456647,1,p_dogum_yer,londra'da,londra, ingiltere
+10456647,1,p_dogum_tar,1954'te,8 aralık 1954
+10456647,2,p_olum_tar,1991'de,
+10456676,4,p_dogum_yer,trabzonspor'a,siren,makedonya
+10456676,1,p_dogum_tar,1973),,1973,7,16
+10456676,3,p_olum_tar,,
+10463244,1,p_dogum_yer,ankara),,ankara,türkiye
+10463244,1,p_dogum_tar,1955;,1955,7,17
+10463244,3,p_olum_tar,,
+10463565,5,p_dogum_yer,,nantes,fransa
+10463565,5,p_dogum_tar,,1972,9,19
+10463565,2,p_olum_tar,1997,
+10463847,1,p_dogum_yer,karabacak,,karabacak, sarıkaya,karabacak, sarıkaya, yozgat,sarıkaya, yozgat
+10463847,1,p_dogum_tar,1967,,1967,04,15
+10463847,2,p_olum_tar,2008.</ref>),,
+10464218,5,p_dogum_yer,,
+10464218,5,p_dogum_tar,,1975,5,18
+10464218,5,p_olum_tar,,
+10466034,1,p_dogum_yer,adana,adana,türkiye
+10466034,1,p_dogum_tar,1959,,1959,1,1
+10466034,2,p_olum_tar,2009}},
+10466111,3,p_dogum_yer,,
+10466111,4,p_dogum_tar,1941'de,1908
+10466111,4,p_olum_tar,1944'te,????
+10470553,1,p_dogum_yer,izmir),,izmir,türkiye
+10470553,1,p_dogum_tar,1960,,1960,2,8
+10470553,2,p_olum_tar,1982,,
+10473485,1,p_dogum_yer,malatya),,malatya,türkiye
+10473485,1,p_dogum_tar,1968,,1968,5,20
+10473485,2,p_olum_tar,1993,
+10494122,1,p_dogum_yer,adana),,adana,türkiye
+10494122,1,p_dogum_tar,1983,1983,11,25
+10494122,2,p_olum_tar,2004,
+10507764,5,p_dogum_yer,,eindhoven,hollanda
+10507764,1,p_dogum_tar,1905,1905,4,16
+10507764,1,p_olum_tar,2005),2005,12,5
+10509361,1,p_dogum_yer,ankara),,ankara,türkiye
+10509361,1,p_dogum_tar,1949,,1949,8,14
+10509361,3,p_olum_tar,,
+10562752,1,p_dogum_yer,conakry),,conakry,gine
+10562752,1,p_dogum_tar,1984;,1984,12,2
+10562752,3,p_olum_tar,,
+10576294,1,p_dogum_yer,izmir),türkiye , izmir
+10576294,1,p_dogum_tar,1950,,1950
+10576294,2,p_olum_tar,2005),,
+10588389,1,p_dogum_yer,zeitz,,zeitz, saksonya krallığı,saksonya, alman imparatorluğu,alman imp.
+10588389,2,p_dogum_tar,1892;,
+10588389,2,p_olum_tar,1973;,
+10601181,1,p_dogum_yer,straßburg,,straßburg, alman imparatorluğu,alman imp.
+10601181,1,p_dogum_tar,1890;,27 şubat 1890
+10601181,1,p_olum_tar,1945{{ref,22 mayıs 1945
+10614636,5,p_dogum_yer,,türkiye
+10614636,1,p_dogum_tar,1910,1910,1,1
+10614636,1,p_olum_tar,1988),,1988,1,1
+10623280,4,p_dogum_yer,adana),tur
+10623280,1,p_dogum_tar,1983,,1983,12,23
+10623280,2,p_olum_tar,2006,
+10630948,5,p_dogum_yer,,amerika
+10630948,1,p_dogum_tar,1922,18 temmuz 1922
+10630948,1,p_olum_tar,1996),17 haziran 1996
+10660505,1,p_dogum_yer,béziers),béziers,fransa
+10660505,1,p_dogum_tar,1981,,1981,01,22
+10660505,3,p_olum_tar,,
+10673419,1,p_dogum_yer,çanakkale),,çanakkale,türkiye
+10673419,1,p_dogum_tar,1990,,1990,12,15
+10673419,2,p_olum_tar,2005-2007,
+10694527,3,p_dogum_yer,,
+10694527,1,p_dogum_tar,1959),1959
+10694527,3,p_olum_tar,,
+10694577,1,p_dogum_yer,adana,adana , türkiye
+10694577,1,p_dogum_tar,1971,,1971
+10694577,2,p_olum_tar,2006,
+10713306,1,p_dogum_yer,kastamonu),,kastamonu,türkiye
+10713306,1,p_dogum_tar,1958,1958,8,15
+10713306,3,p_olum_tar,,
+10722241,1,p_dogum_yer,tarifa),,tarifa,ispanya
+10722241,1,p_dogum_tar,1959;,1959,10,2
+10722241,2,p_olum_tar,1993,
+10728387,5,p_dogum_yer,,göyçe ,geğarkunik,şafak ,vanevan,
+10728387,1,p_dogum_tar,1775-1880,1775
+10728387,5,p_olum_tar,,1880
+10739858,5,p_dogum_yer,,fatsa , türkiye
+10739858,5,p_dogum_tar,,1916
+10739858,2,p_olum_tar,1979,
+10748217,1,p_dogum_yer,barakaldo,,barakaldo,ispanya
+10748217,1,p_dogum_tar,1981,,19 ocak 1981
+10748217,3,p_olum_tar,,
+10750604,5,p_dogum_yer,,akçaabat, trabzon,türkiye
+10750604,1,p_dogum_tar,1977,,1977,11,6
+10750604,2,p_olum_tar,1997-98,
+10750978,1,p_dogum_yer,edirne),edirne, türkiye
+10750978,1,p_dogum_tar,1945,,1945,06,29
+10750978,2,p_olum_tar,1995,,
+10778749,5,p_dogum_yer,,göyçe,geğarkunik, sarıyakup ,zergerli,
+10778749,5,p_dogum_tar,,1430
+10778749,5,p_olum_tar,,1535
+10793017,2,p_dogum_yer,ankara),,
+10793017,1,p_dogum_tar,1980,,1980,7,21
+10793017,2,p_olum_tar,2002,
+10852278,1,p_dogum_yer,gandia,,gandia,ispanya
+10852278,1,p_dogum_tar,1981,,1981,14,04
+10852278,2,p_olum_tar,2009,
+10874934,1,p_dogum_yer,çanakkale),çanakkale yenice nevruz,
+10874934,1,p_dogum_tar,1956|,1956,
+10874934,2,p_olum_tar,2008,
+10887683,5,p_dogum_yer,,bury, greater manchester, ingiltere
+10887683,1,p_dogum_tar,1984,,1984,11,16
+10887683,3,p_olum_tar,,
+10891600,1,p_dogum_yer,jakobstad,jakobstad , finlandiya
+10891600,1,p_dogum_tar,1804,,5 şubat 1804
+10891600,1,p_olum_tar,1877,,6 mayıs 1877
+10892453,5,p_dogum_yer,,
+10892453,5,p_dogum_tar,,1992,09,16
+10892453,5,p_olum_tar,,
+10892536,1,p_dogum_yer,esentepe,,esentepe, kıbrıs
+10892536,1,p_dogum_tar,1949,,25 şubat, 1949
+10892536,2,p_olum_tar,1990,
+10897074,1,p_dogum_yer,ankara),,ankara
+10897074,1,p_dogum_tar,1970,,1970,07,24
+10897074,2,p_olum_tar,2002),,
+10920335,4,p_dogum_yer,1981,,izmir
+10920335,4,p_dogum_tar,ekim,1981,10,22
+10920335,2,p_olum_tar,oyuncusudur.,
+10923026,1,p_dogum_yer,çanakkale),,çanakkale
+10923026,1,p_dogum_tar,1985,,1985,01,16
+10923026,2,p_olum_tar,2007,
+10927348,5,p_dogum_yer,,londra, ingiltere
+10927348,1,p_dogum_tar,1926,16 şubat, 1926
+10927348,1,p_olum_tar,2003),25 temmuz, 2003
+10928718,1,p_dogum_yer,istanbul,kadıköy, istanbul, türkiye
+10928718,1,p_dogum_tar,1938,,18 ağustos 1938
+10928718,1,p_olum_tar,1992,,1992,4,8
+10931694,1,p_dogum_yer,londra,,londra,ingiltere
+10931694,1,p_dogum_tar,1992,,1992,9,19
+10931694,3,p_olum_tar,,
+10970379,5,p_dogum_yer,,redding, connecticut, amerika birleşik devletleri,abd
+10970379,1,p_dogum_tar,1754,1754,3,24
+10970379,1,p_olum_tar,1812),1812,12,26
+10971157,5,p_dogum_yer,,aktutan, gümüşhane, türkiye
+10971157,5,p_dogum_tar,,1986,1,20
+10971157,5,p_olum_tar,,
+10991913,5,p_dogum_yer,,taşkent, özbekistan
+10991913,4,p_dogum_tar,1925,17 eylül 1957
+10991913,2,p_olum_tar,1944'te,
+10996877,1,p_dogum_yer,londra'da,londra, ingiltere
+10996877,1,p_dogum_tar,1964,7 ekim 1964
+10996877,2,p_olum_tar,2.500.000,
+11000372,5,p_dogum_yer,,aydın, türkiye
+11000372,1,p_dogum_tar,1961,,22 ocak 1961
+11000372,3,p_olum_tar,,
+11002592,3,p_dogum_yer,,
+11002592,1,p_dogum_tar,1970)<ref>http://www.thesmokinggun.com/archive/1008041hiphop23.html</ref>,,1970,6,26
+11002592,3,p_olum_tar,,
+11018271,5,p_dogum_yer,,catacamas, honduras
+11018271,1,p_dogum_tar,1952),,1952,09,20
+11018271,2,p_olum_tar,2009}},
+11024169,1,p_dogum_yer,dayton-ohio).,dayton, ohio, amerika birleşik devletleri,abd
+11024169,1,p_dogum_tar,1969,,1969,9,6
+11024169,2,p_olum_tar,1989,
+11025969,1,p_dogum_yer,malatya),,malatya, türkiye
+11025969,1,p_dogum_tar,1965,,1965
+11025969,2,p_olum_tar,1985,
+11028862,1,p_dogum_yer,istanbul),,istanbul
+11028862,1,p_dogum_tar,1969,,1969
+11028862,2,p_olum_tar,2008),
+11030697,1,p_dogum_yer,istanbul),,istanbul, türkiye
+11030697,1,p_dogum_tar,1980,,1980,6,12
+11030697,2,p_olum_tar,2002-2005,
+11043013,1,p_dogum_yer,beypazarı'nda,beypazarı, ,türkiye,,ankara
+11043013,4,p_dogum_tar,1949,1926,5,3
+11043013,4,p_olum_tar,17.04.2012),2012,4,17
+11045446,5,p_dogum_yer,,ger, fürt
+11045446,1,p_dogum_tar,1809,1809,07,19
+11045446,1,p_olum_tar,1885,,1885,05,13
+11055588,5,p_dogum_yer,,huddersfield, yorkshire, ingiltere,
+11055588,1,p_dogum_tar,1909,15 mayıs 1909
+11055588,4,p_olum_tar,1980'li,27 temmuz 1984
+11064790,4,p_dogum_yer,razgrad),vladimirovtsi, bulgaristan
+11064790,1,p_dogum_tar,1940,9 aralık 1940
+11064790,3,p_olum_tar,,
+11069690,5,p_dogum_yer,,türkiye
+11069690,5,p_dogum_tar,,1975,çamlıhemşin,rize
+11069690,5,p_olum_tar,,
+11073888,4,p_dogum_yer,karşıyaka,,izmir
+11073888,1,p_dogum_tar,1980,,1980,4,22
+11073888,2,p_olum_tar,2006,
+11091690,1,p_dogum_yer,eskişehir),,eskişehir,türkiye
+11091690,1,p_dogum_tar,1942,,1942,1,23
+11091690,2,p_olum_tar,1963,
+11091790,5,p_dogum_yer,,istanbul, türkiye
+11091790,4,p_dogum_tar,1959,,1892
+11091790,2,p_olum_tar,1912,
+11122882,1,p_dogum_yer,dakar),dakar,senegal
+11122882,1,p_dogum_tar,1973,,1973,11,12
+11122882,2,p_olum_tar,2007,
+11127145,1,p_dogum_yer,istanbul),,istanbul, türkiye
+11127145,1,p_dogum_tar,1987,,15 mayıs 1987
+11127145,3,p_olum_tar,,
+11137151,1,p_dogum_yer,ankara'da,türkiye , ankara
+11137151,5,p_dogum_tar,,1972
+11137151,2,p_olum_tar,1972,,
+11139952,4,p_dogum_yer,karşıyaka,izmir, türkiye
+11139952,4,p_dogum_tar,aralık,1987,12,27
+11139952,2,p_olum_tar,da,
+11151049,1,p_dogum_yer,trabzon),,trabzon,türkiye
+11151049,1,p_dogum_tar,1981,,1981,8,10
+11151049,3,p_olum_tar,,
+11153201,4,p_dogum_yer,olarak,kırıkkale
+11153201,1,p_dogum_tar,1979),1979,3,19
+11153201,2,p_olum_tar,2008'de,
+11162090,5,p_dogum_yer,,berlin
+11162090,1,p_dogum_tar,1878,8 aralık 1878
+11162090,1,p_olum_tar,1944),,9 şubat 1944
+11178662,5,p_dogum_yer,,carrara, toskana, italya
+11178662,1,p_dogum_tar,1787,,1787,7,13
+11178662,1,p_olum_tar,1848,,1848,11,15
+11185710,1,p_dogum_yer,çorum),,çorum,türkiye
+11185710,1,p_dogum_tar,1971,,1971,11,17
+11185710,2,p_olum_tar,1993,
+11186131,1,p_dogum_yer,maçka,,maçka, trabzon,türkiye
+11186131,1,p_dogum_tar,1985,,1985,6,1
+11186131,2,p_olum_tar,2003-04,
+11186556,1,p_dogum_yer,istanbul),istanbul,türkiye
+11186556,1,p_dogum_tar,1922,,1922,1,1
+11186556,3,p_olum_tar,,
+11186617,1,p_dogum_yer,istanbul,istanbul,türkiye
+11186617,1,p_dogum_tar,1901,,1901
+11186617,1,p_olum_tar,1990,,temmuz 1990
+11186622,1,p_dogum_yer,istanbul,istanbul,türkiye
+11186622,1,p_dogum_tar,1901,,1901,1,1
+11186622,1,p_olum_tar,1979<ref>"milliyet",,1979,4,24
+11186677,5,p_dogum_yer,,istanbul,türkiye
+11186677,4,p_dogum_tar,1941,1922
+11186677,4,p_olum_tar,1956,1994,11,23
+11186736,1,p_dogum_yer,istanbul,istanbul,türkiye
+11186736,1,p_dogum_tar,1918,,1918,1,1
+11186736,1,p_olum_tar,1985),1985,1,12
+11186865,5,p_dogum_yer,,bakırköy, istanbul,türkiye
+11186865,1,p_dogum_tar,1986,,1986,1,8
+11186865,2,p_olum_tar,2005,
+11187080,1,p_dogum_yer,giresun),giresun,türkiye
+11187080,1,p_dogum_tar,1991,,1991,10,10
+11187080,2,p_olum_tar,2009,
+11188666,4,p_dogum_yer,trabzonspor'a,sivas,türkiye
+11188666,1,p_dogum_tar,1954,1954,5,5
+11188666,2,p_olum_tar,2008-09,
+11189283,1,p_dogum_yer,gent),,gent,belçika
+11189283,1,p_dogum_tar,1974;,1974,8,29
+11189283,2,p_olum_tar,2007-2008,
+11194918,1,p_dogum_yer,sao,sao paulo,brezilya
+11194918,1,p_dogum_tar,1981,1981,10,1
+11194918,2,p_olum_tar,2005,
+11203985,5,p_dogum_yer,,klikya
+11203985,5,p_dogum_tar,,326
+11203985,5,p_olum_tar,,27 mayıs 366
+11213835,4,p_dogum_yer,bulgaristan),,tur
+11213835,1,p_dogum_tar,1982,,19 mart 1982
+11213835,3,p_olum_tar,,
+11223594,5,p_dogum_yer,,setúbal, portekiz
+11223594,1,p_dogum_tar,1983,1983
+11223594,2,p_olum_tar,10.,
+11226426,1,p_dogum_yer,abidjan),abidjan,fildişi sahili
+11226426,1,p_dogum_tar,1981,,1981,09,17
+11226426,2,p_olum_tar,2009''',
+11236095,5,p_dogum_yer,,münih, bavyera
+11236095,2,p_dogum_tar,1905;,
+11236095,2,p_olum_tar,1944;,
+11238299,5,p_dogum_yer,,new york
+11238299,1,p_dogum_tar,1949,1949,1,17
+11238299,1,p_olum_tar,1984),,1984,5,16
+11238664,1,p_dogum_yer,sakarya),,sakarya,türkiye
+11238664,1,p_dogum_tar,1992,,1992,3,10
+11238664,2,p_olum_tar,2011-12,
+11242113,5,p_dogum_yer,,libya
+11242113,3,p_dogum_tar,,
+11242113,2,p_olum_tar,mart,
+11273887,5,p_dogum_yer,,londra , ingiltere
+11273887,1,p_dogum_tar,1921,31 temmuz 1921
+11273887,1,p_olum_tar,2005),25 şubat 2005
+11274626,5,p_dogum_yer,,valladolid,ispanya
+11274626,1,p_dogum_tar,1975,valladolid),1975,7,11
+11274626,2,p_olum_tar,2000,
+11277433,1,p_dogum_yer,akra),,akra,gana
+11277433,1,p_dogum_tar,1974,,1974,09,8
+11277433,2,p_olum_tar,1997-2004,
+11287425,5,p_dogum_yer,,altenkirchen
+11287425,2,p_dogum_tar,1894,
+11287425,2,p_olum_tar,1941),,
+11289006,3,p_dogum_yer,,
+11289006,3,p_dogum_tar,,
+11289006,4,p_olum_tar,907),,2 mayıs 907
+11290729,5,p_dogum_yer,,erzincan
+11290729,1,p_dogum_tar,1874,1874
+11290729,1,p_olum_tar,1942,1942,11,22
+11293722,1,p_dogum_yer,urfa'da,urfa
+11293722,1,p_dogum_tar,1933,1933
+11293722,1,p_olum_tar,1998),1998
+11293860,5,p_dogum_yer,,osterfeld
+11293860,2,p_dogum_tar,1908,
+11293860,2,p_olum_tar,1941),,
+11294519,5,p_dogum_yer,,dresden
+11294519,2,p_dogum_tar,1887,
+11294519,2,p_olum_tar,1945),,
+11305226,5,p_dogum_yer,,estonya
+11305226,1,p_dogum_tar,şubat,7 şubat 1987
+11305226,2,p_olum_tar,haziran,
+11305842,1,p_dogum_yer,istanbul).,istanbul
+11305842,1,p_dogum_tar,1921,,23 ekim 1921
+11305842,2,p_olum_tar,2009}},
+11318072,5,p_dogum_yer,,sorgun, yozgat,türkiye
+11318072,1,p_dogum_tar,1981,1981,10,3
+11318072,3,p_olum_tar,,
+11326133,5,p_dogum_yer,,fatih, istanbul, türkiye
+11326133,5,p_dogum_tar,,1990,01,15
+11326133,2,p_olum_tar,1990),,
+11334151,5,p_dogum_yer,,istanbul
+11334151,1,p_dogum_tar,1860,,1860
+11334151,1,p_olum_tar,1936,,1936
+11361296,1,p_dogum_yer,lahor-pakistan),pakistan - lahor
+11361296,1,p_dogum_tar,1966),23 temmuz 1966
+11361296,2,p_olum_tar,2007,
+11370952,1,p_dogum_yer,bursa),bursa,türkiye
+11370952,1,p_dogum_tar,1948,,1948,9,5
+11370952,2,p_olum_tar,1.liginde,
+11384507,5,p_dogum_yer,,kayseri-türkiye
+11384507,1,p_dogum_tar,1949,kayseri),,15.04.1949
+11384507,3,p_olum_tar,,
+11395499,1,p_dogum_yer,milano),,milano,italya
+11395499,1,p_dogum_tar,1960,,1960,4,28
+11395499,2,p_olum_tar,1990,
+11397517,5,p_dogum_yer,,aberdeen, washington, amerika birleşik devletleri,abd
+11397517,5,p_dogum_tar,,1967,2,20
+11397517,5,p_olum_tar,,1994,4,5
+11399831,1,p_dogum_yer,adana,,adana, türkiye
+11399831,1,p_dogum_tar,1934,,1934
+11399831,2,p_olum_tar,2009,,
+11401779,5,p_dogum_yer,,şişli, istanbul, türkiye
+11401779,1,p_dogum_tar,1988,,1988,11,01
+11401779,2,p_olum_tar,2010,
+11405158,1,p_dogum_yer,londra'da,lewisham, londra, birleşik krallık
+11405158,1,p_dogum_tar,1957,,1957,05,10
+11405158,4,p_olum_tar,1965'de,1979,02,02
+11406891,1,p_dogum_yer,kars),kars, türkiye
+11406891,1,p_dogum_tar,1970,,1970
+11406891,2,p_olum_tar,2006′da,
+11415205,1,p_dogum_yer,san'a,,san'a, osmanlı imparatorluğu,, yemen cumhuriyeti,
+11415205,1,p_dogum_tar,1917,,1917,2,17
+11415205,1,p_olum_tar,1972,,1972,7,19
+11431010,4,p_dogum_yer,azerbaycan'ın,kaçağan köyü, marneuli ,sarvan,, gürcistan ssc, sovyet sosyalist cumhuriyetler birliği,sscb
+11431010,4,p_dogum_tar,nisan,1988,4,30
+11431010,2,p_olum_tar,tutup.,
+11431025,5,p_dogum_yer,,kaçağan köyü, marneuli ,sarvan,, gürcistan ssc, sovyet sosyalist cumhuriyetler birliği,sscb
+11431025,5,p_dogum_tar,,1989,11,12
+11431025,2,p_olum_tar,2012}},
+11434231,1,p_dogum_yer,sofya,,sofya,bulgaristan
+11434231,1,p_dogum_tar,1915,,1915,7,11
+11434231,1,p_olum_tar,2000,,2000,4,19
+11439228,5,p_dogum_yer,,kahramanmaraş, türkiye
+11439228,4,p_dogum_tar,1955,1931,4,13
+11439228,4,p_olum_tar,1300,1990,04,20
+11440367,5,p_dogum_yer,,tiflis, gürcistan ssc, sovyet sosyalist cumhuriyetler birliği,sscb
+11440367,1,p_dogum_tar,1964-cu,1964,7,2
+11440367,2,p_olum_tar,2006,
+11441397,1,p_dogum_yer,istanbul),,istanbul, türkiye
+11441397,1,p_dogum_tar,1991,,1991,04,21
+11441397,3,p_olum_tar,,
+11441402,1,p_dogum_yer,kalkandelen,kalkandelen,yugoslavya sosyalist federal cumhuriyeti,yugoslavya sfc
+11441402,1,p_dogum_tar,1955,,1955,3,30
+11441402,3,p_olum_tar,,
+11441415,1,p_dogum_yer,akçaabat,,akçaabat, trabzon,türkiye
+11441415,1,p_dogum_tar,1986,,1986,1,19
+11441415,2,p_olum_tar,2006-07,
+11442359,1,p_dogum_yer,izmir),,izmir, türkiye
+11442359,1,p_dogum_tar,1930,,26 aralık 1930
+11442359,2,p_olum_tar,1950,
+11442772,5,p_dogum_yer,,varşova
+11442772,1,p_dogum_tar,1978'de,3 mart 1978
+11442772,2,p_olum_tar,1989,
+11442862,3,p_dogum_yer,,
+11442862,1,p_dogum_tar,1979),1979,5,22
+11442862,2,p_olum_tar,2005,
+11443545,1,p_dogum_yer,istanbul),,istanbul
+11443545,1,p_dogum_tar,1948,,1948,9,30
+11443545,2,p_olum_tar,45'liği,
+11445255,5,p_dogum_yer,,viyana, avusturya
+11445255,1,p_dogum_tar,1878'de,10 ağustos 1878
+11445255,4,p_olum_tar,1919'dan,1950,7,8
+11445578,1,p_dogum_yer,giresun),,giresun
+11445578,1,p_dogum_tar,1942,,18 eylül 1942
+11445578,2,p_olum_tar,2015'e,
+11447297,3,p_dogum_yer,,
+11447297,4,p_dogum_tar,1975),1974,7,24
+11447297,2,p_olum_tar,2009}},
+11453050,5,p_dogum_yer,,kızıltepe-mardin, türkiye
+11453050,4,p_dogum_tar,1990'lı,1974
+11453050,2,p_olum_tar,2000,
+11458284,3,p_dogum_yer,,
+11458284,3,p_dogum_tar,,
+11458284,1,p_olum_tar,1603,4 ekim 1603
+11462896,5,p_dogum_yer,,filibe,bulgaristan
+11462896,1,p_dogum_tar,1934;,1934,1,1
+11462896,1,p_olum_tar,2011,,2011,7,20
+11463515,3,p_dogum_yer,,
+11463515,1,p_dogum_tar,1955,1955<br> dersim, türkiye
+11463515,3,p_olum_tar,,
+11470296,5,p_dogum_yer,,ıowa, amerika birleşik devletleri,abd
+11470296,1,p_dogum_tar,1977,1977,1,20
+11470296,2,p_olum_tar,2008,
+11473162,1,p_dogum_yer,moskova'da,moskova
+11473162,1,p_dogum_tar,1971,,1971,12,27
+11473162,1,p_olum_tar,2002),,2002,9,20
+11474576,5,p_dogum_yer,,kaçağan köyü, marneuli ,sarvan,, gürcistan ssc, sovyet sosyalist cumhuriyetler birliği,sscb
+11474576,1,p_dogum_tar,1988'de,1988,9,3
+11474576,2,p_olum_tar,2004,
+11485753,5,p_dogum_yer,,saargemünd, alman imparatorluğu,alman imp.
+11485753,2,p_dogum_tar,1910,
+11485753,2,p_olum_tar,1996),,
+11486894,5,p_dogum_yer,,dimona,israil
+11486894,1,p_dogum_tar,1980,1980,5,5
+11486894,2,p_olum_tar,1999-2000,
+11497727,5,p_dogum_yer,,istanbul, tur
+11497727,1,p_dogum_tar,1974),,1974,12,13
+11497727,2,p_olum_tar,1995,
+11500246,3,p_dogum_yer,,
+11500246,4,p_dogum_tar,1954,,tarsus, mersin,tarsus mersin, türkiye
+11500246,4,p_olum_tar,2009,,adana, türkiye
+11501486,1,p_dogum_yer,of,türkiye, of, trabzon,trabzon
+11501486,1,p_dogum_tar,1948,,1948
+11501486,2,p_olum_tar,1989,
+11516745,5,p_dogum_yer,,ayyıldız, oltu, erzurum, türkiye
+11516745,1,p_dogum_tar,1954,1954
+11516745,1,p_olum_tar,1983,14 haziran1983
+11517047,5,p_dogum_yer,,kasımlı köyü, marneuli ,sarvan,, gürcistan ssc, sovyet sosyalist cumhuriyetler birliği,sscb
+11517047,1,p_dogum_tar,1987,1987,10,17
+11517047,2,p_olum_tar,2006-2009,
+11529667,4,p_dogum_yer,değil,,mage - rio de janeiro
+11529667,5,p_dogum_tar,,17 kasım 1831
+11529667,5,p_olum_tar,,28 kasım 1861
+11535658,1,p_dogum_yer,covington,,covington, tennessee, amerika birleşik devletleri,abd
+11535658,1,p_dogum_tar,1942,,20 ağustos 1942
+11535658,2,p_olum_tar,2008,,
+11539621,5,p_dogum_yer,,istanbul, türkiye
+11539621,1,p_dogum_tar,1974,1974,5,17
+11539621,3,p_olum_tar,,
+11545599,5,p_dogum_yer,,austin, teksas, amerika birleşik devletleri,abd
+11545599,1,p_dogum_tar,1974;,1974,10,2
+11545599,2,p_olum_tar,2008,
+11547752,1,p_dogum_yer,ankara),ankara, türkiye
+11547752,1,p_dogum_tar,1977,,1977,6,28
+11547752,2,p_olum_tar,1995'te,
+11554095,5,p_dogum_yer,,albemarle, north carolina, united states
+11554095,5,p_dogum_tar,,1986,06,28
+11554095,5,p_olum_tar,,
+11558593,5,p_dogum_yer,,
+11558593,5,p_dogum_tar,,isviçre
+11558593,5,p_olum_tar,,
+11561493,5,p_dogum_yer,,çıldır
+11561493,5,p_dogum_tar,,1958
+11561493,2,p_olum_tar,2012,
+11575032,1,p_dogum_yer,ılıca),ılıca, manavgat, antalya,türkiye
+11575032,1,p_dogum_tar,1986,,1986,4,13
+11575032,3,p_olum_tar,,
+11575616,1,p_dogum_yer,amerika,newport, arkansas, amerika birleşik devletleri,abd
+11575616,1,p_dogum_tar,1953,,1953,2,8
+11575616,3,p_olum_tar,,
+11580253,5,p_dogum_yer,,montreal, quebec, kanada
+11580253,1,p_dogum_tar,1981,29 ağustos 1981
+11580253,3,p_olum_tar,,
+11587200,1,p_dogum_yer,kaliforniya'da,oakland, kaliforniya,oakland, kaliforniya, amerika birleşik devletleri,abd
+11587200,1,p_dogum_tar,1972;,1972,2,17
+11587200,2,p_olum_tar,1994'te,
+11588292,4,p_dogum_yer,ter-ısahakyan'da,hadjikend, kars oblastı, rusya imparatorluğu
+11588292,4,p_dogum_tar,1884;,22 ağustos 1894
+11588292,1,p_olum_tar,1967;,11 ekim 1967
+11590755,1,p_dogum_yer,ankara),,ankara
+11590755,1,p_dogum_tar,1977,,1977,8,12
+11590755,2,p_olum_tar,2008,
+11601842,5,p_dogum_yer,,raleigh, kuzey karolina
+11601842,1,p_dogum_tar,1990),1990,9,6
+11601842,3,p_olum_tar,,
+11601939,5,p_dogum_yer,,spokane, washington
+11601939,1,p_dogum_tar,1954),28 eylül 1954
+11601939,2,p_olum_tar,1997,
+11601949,1,p_dogum_yer,monica-california'da,santa monica, kaliforniya, amerika birleşik devletleri,abd
+11601949,1,p_dogum_tar,1956,6 aralık 1956
+11601949,1,p_olum_tar,1982),19 mart 1982
+11602338,5,p_dogum_yer,,zollikon
+11602338,1,p_dogum_tar,1934),13 mayıs 1934
+11602338,3,p_olum_tar,,
+11612652,2,p_dogum_yer,ankara),,
+11612652,1,p_dogum_tar,1965,,1965,3,5
+11612652,2,p_olum_tar,1995,
+11613487,5,p_dogum_yer,,londra, ingiltere
+11613487,1,p_dogum_tar,1939,16 nisan 1939
+11613487,1,p_olum_tar,1999).,2 mart 1999
+11618265,2,p_dogum_yer,hakkari'de,
+11618265,1,p_dogum_tar,1930,23 eylül 1930, hakkari, türkiye
+11618265,1,p_olum_tar,2003),,6 temmuz 2003, istanbul, türkiye
+11619084,1,p_dogum_yer,sivas),,sivas,türkiye
+11619084,1,p_dogum_tar,1980,,1980,5,6
+11619084,2,p_olum_tar,2001,
+11621892,1,p_dogum_yer,istanbul’da,istanbul, türkiye
+11621892,5,p_dogum_tar,,1983,2,9
+11621892,2,p_olum_tar,2007,
+11623801,5,p_dogum_yer,,
+11623801,5,p_dogum_tar,,mö 1. yüzyıl
+11623801,5,p_olum_tar,,
+11626193,5,p_dogum_yer,,kadıköy, istanbul
+11626193,1,p_dogum_tar,1981),1981,03,09
+11626193,3,p_olum_tar,,
+11629619,5,p_dogum_yer,,cayenne,guyana
+11629619,1,p_dogum_tar,1980),,1980,06,13
+11629619,3,p_olum_tar,,
+11632890,5,p_dogum_yer,,istanbul
+11632890,1,p_dogum_tar,1975,1975,07,27
+11632890,2,p_olum_tar,1996,
+11646679,1,p_dogum_yer,kalecik,kalecik, ankara,kalecik, ankara
+11646679,1,p_dogum_tar,1983,,1983,1,3
+11646679,2,p_olum_tar,2004,
+11658142,5,p_dogum_yer,,naples, italya
+11658142,4,p_dogum_tar,1940'larda,1897,1,9
+11658142,5,p_olum_tar,,1972,11,12
+11658817,1,p_dogum_yer,gaziantep),,gaziantep,türkiye
+11658817,1,p_dogum_tar,1961,,1961,7,15
+11658817,3,p_olum_tar,,
+11659624,1,p_dogum_yer,istanbul’da,istanbul
+11659624,1,p_dogum_tar,1727,1727
+11659624,1,p_olum_tar,1812,12 haziran 1812
+11661119,5,p_dogum_yer,,istanbul
+11661119,4,p_dogum_tar,(d.,1823
+11661119,1,p_olum_tar,ekim,15 ekim 1875
+11661159,4,p_dogum_yer,==,istanbul
+11661159,4,p_dogum_tar,(d.,1791
+11661159,4,p_olum_tar,ö.,1488
+11663355,1,p_dogum_yer,culiacancito),,culiacancito,meksika
+11663355,1,p_dogum_tar,1973,,1973,8,14
+11663355,2,p_olum_tar,2004'de,
+11665244,5,p_dogum_yer,,istanbul, türkiye
+11665244,1,p_dogum_tar,1897,1897,11,11
+11665244,1,p_olum_tar,1972),,1972,8,9
+11665247,5,p_dogum_yer,,bayburt, türkiye
+11665247,1,p_dogum_tar,1922,1922
+11665247,4,p_olum_tar,1955'te,25 ekim 2003
+11665358,5,p_dogum_yer,,missouri, amerika birleşik devletleri,abd
+11665358,5,p_dogum_tar,,1948
+11665358,2,p_olum_tar,1997,
+11665379,5,p_dogum_yer,,viyana, avusturya
+11665379,1,p_dogum_tar,1865,1 nisan 1865
+11665379,1,p_olum_tar,1929),,23 eylül 1929
+11665402,5,p_dogum_yer,,hofei, anwhei, çin
+11665402,1,p_dogum_tar,1922,22 eylül 1922
+11665402,3,p_olum_tar,,
+11665419,1,p_dogum_yer,kayseri'de,kayseri
+11665419,5,p_dogum_tar,,1968
+11665419,2,p_olum_tar,2010,
+11665587,5,p_dogum_yer,,los angeles, california
+11665587,5,p_dogum_tar,,1927
+11665587,4,p_olum_tar,2009}},5 mayıs 2007
+11678514,5,p_dogum_yer,,bahçesaray, rusya imparatorluğu
+11678514,4,p_dogum_tar,1938,1876
+11678514,4,p_olum_tar,1935,1943
+11679078,1,p_dogum_yer,kürdemir),,kürdemir, azerbaycan
+11679078,1,p_dogum_tar,1952,,1952,2,13
+11679078,2,p_olum_tar,2002-2009,
+11681503,5,p_dogum_yer,,musika köyü, mardin, türkiye
+11681503,4,p_dogum_tar,1986,1958
+11681503,2,p_olum_tar,3,5,
+11682129,5,p_dogum_yer,,sakarya
+11682129,1,p_dogum_tar,1970,,5 ekim 1970
+11682129,3,p_olum_tar,,
+11686554,1,p_dogum_yer,san,san antonio, şili,ispanya
+11686554,1,p_dogum_tar,1981,,10 mayıs 1981
+11686554,2,p_olum_tar,2001,
+11689871,1,p_dogum_yer,dublin,,dublin, irlanda
+11689871,1,p_dogum_tar,1960;,1960,5,10
+11689871,2,p_olum_tar,2005,
+11695254,5,p_dogum_yer,,istanbul
+11695254,1,p_dogum_tar,1960,1960
+11695254,3,p_olum_tar,,
+11695929,1,p_dogum_yer,akyazı,,akyazı, sakarya,türkiye
+11695929,1,p_dogum_tar,1983;,1983,6,21
+11695929,2,p_olum_tar,2007,
+11696626,2,p_dogum_yer,devletleri|abd'de,
+11696626,5,p_dogum_tar,,18 mayıs 1960
+11696626,2,p_olum_tar,1960'ta,,
+11699157,1,p_dogum_yer,istanbul),,istanbul, türkiye
+11699157,1,p_dogum_tar,1969,,11 mayıs 1969
+11699157,3,p_olum_tar,,
+11705531,5,p_dogum_yer,,harlem, new york, amerika birleşik devletleri,abd
+11705531,1,p_dogum_tar,1961),1961,7,22
+11705531,3,p_olum_tar,,
+11707778,5,p_dogum_yer,,istanbul ili,istanbul
+11707778,4,p_dogum_tar,1987’de,1959
+11707778,2,p_olum_tar,2012‎}},
+11708213,5,p_dogum_yer,,shapli köyü, soçi
+11708213,1,p_dogum_tar,1830-,1830
+11708213,1,p_olum_tar,1915),,1915
+11714091,2,p_dogum_yer,istanbul'da,
+11714091,5,p_dogum_tar,,1977
+11714091,2,p_olum_tar,2002'de,
+11715588,5,p_dogum_yer,,ankeny, ıowa, amerika birleşik devletleri,a.b.d.
+11715588,1,p_dogum_tar,1973),1973,2,24
+11715588,3,p_olum_tar,,
+11722217,3,p_dogum_yer,,
+11722217,4,p_dogum_tar,1989,1978,12,2
+11722217,3,p_olum_tar,,
+11723911,5,p_dogum_yer,,gaziantep,türkiye
+11723911,1,p_dogum_tar,1938,,1938,3,21
+11723911,3,p_olum_tar,,
+11728092,5,p_dogum_yer,,saint petersburg
+11728092,1,p_dogum_tar,1966,,1966,1,18
+11728092,3,p_olum_tar,,
+11728331,5,p_dogum_yer,,okemah, oklahoma,okemah, oklahoma, amerika birleşik devletleri,abd
+11728331,1,p_dogum_tar,1912,1912,7,14
+11728331,1,p_olum_tar,1967),,1967,10,3
+11730339,5,p_dogum_yer,,são paulo,brezilya
+11730339,1,p_dogum_tar,1980,24 haziran 1980
+11730339,2,p_olum_tar,2012,
+11733631,5,p_dogum_yer,,ırsina, basilicata, italya
+11733631,2,p_dogum_tar,1943'de,
+11733631,4,p_olum_tar,1942'de,1943,3,19
+11740315,5,p_dogum_yer,,viana do castelo,portugal
+11740315,4,p_dogum_tar,orta,2 mayıs 1981
+11740315,2,p_olum_tar,2010,
+11747098,5,p_dogum_yer,,istanbul, türkiye
+11747098,5,p_dogum_tar,,1918,1,1
+11747098,1,p_olum_tar,1992;,1992,6,24
+11747216,1,p_dogum_yer,istanbul),istanbul
+11747216,1,p_dogum_tar,1943,,1943,7,10
+11747216,2,p_olum_tar,1969,
+11747406,5,p_dogum_yer,,santo antônio de jesus,brezilya
+11747406,1,p_dogum_tar,1973),,1973,6,20
+11747406,2,p_olum_tar,2000-2004,
+11747428,1,p_dogum_yer,mardin''),,mardin, türkiye
+11747428,1,p_dogum_tar,1956,,1956
+11747428,2,p_olum_tar,1998,,
+11747478,5,p_dogum_yer,,
+11747478,5,p_dogum_tar,,
+11747478,5,p_olum_tar,,1608
+11747529,5,p_dogum_yer,,türkiye
+11747529,1,p_dogum_tar,1973),,1973,11,01
+11747529,3,p_olum_tar,,
+11749753,1,p_dogum_yer,madrid),,madrid,ispanya
+11749753,1,p_dogum_tar,1982,,1982,8,31
+11749753,3,p_olum_tar,,
+11749815,5,p_dogum_yer,,gorna oryahovitsa,bulgaristan
+11749815,1,p_dogum_tar,1986),,1986,2,15
+11749815,3,p_olum_tar,,
+11753739,1,p_dogum_yer,trabzon),trabzon,türkiye
+11753739,1,p_dogum_tar,1964,,1964,3,30
+11753739,2,p_olum_tar,1991-92|1991-1992,
+11756518,5,p_dogum_yer,,
+11756518,5,p_dogum_tar,,yıl,ay,gün
+11756518,5,p_olum_tar,,
+11756546,5,p_dogum_yer,,doğumyeri
+11756546,5,p_dogum_tar,,
+11756546,5,p_olum_tar,,
+11756607,5,p_dogum_yer,,
+11756607,5,p_dogum_tar,,yıl,ay,gün
+11756607,5,p_olum_tar,,
+11757725,5,p_dogum_yer,,
+11757725,5,p_dogum_tar,,yıl,ay,gün
+11757725,5,p_olum_tar,,
+11757939,5,p_dogum_yer,,
+11757939,5,p_dogum_tar,,doğum yılı,doğum ayı,doğum günü
+11757939,5,p_olum_tar,,
+11759318,5,p_dogum_yer,,londra, ingiltere
+11759318,1,p_dogum_tar,1873,4 kasım 1873
+11759318,5,p_olum_tar,,1958,10,24
+11766081,5,p_dogum_yer,,preston, ingiltere,irlanda
+11766081,1,p_dogum_tar,1977),1 şubat 1977
+11766081,3,p_olum_tar,,
+11771146,1,p_dogum_yer,hatfield,,hatfield, hertfordshire, ingiltere
+11771146,1,p_dogum_tar,1968;,1968,9,10
+11771146,2,p_olum_tar,1998,
+11771996,5,p_dogum_yer,,bayrak,ukrayna poltava, ukrayna
+11771996,1,p_dogum_tar,1897-ö.1942),1897,6,21
+11771996,5,p_olum_tar,,1942,2,25
+11781939,1,p_dogum_yer,münih,,münih,almanya
+11781939,1,p_dogum_tar,1983,,1983,3,26
+11781939,2,p_olum_tar,2005-06,
+11790654,1,p_dogum_yer,londra,,londra, ingiltere
+11790654,1,p_dogum_tar,1991,,1991,2,17
+11790654,3,p_olum_tar,,
+11795692,5,p_dogum_yer,,gürün, türkiye
+11795692,4,p_dogum_tar,1982'de,1926
+11795692,1,p_olum_tar,1984,,1984
+11799189,5,p_dogum_yer,,san diego, kalifornia, amerika birleşik devletleri,abd
+11799189,1,p_dogum_tar,1979;,1979,12,15
+11799189,3,p_olum_tar,,
+11799842,5,p_dogum_yer,,
+11799842,5,p_dogum_tar,,1975,12,5
+11799842,5,p_olum_tar,,
+11799900,5,p_dogum_yer,,shelby, kuzey karolina
+11799900,1,p_dogum_tar,1954;,1954,7,13
+11799900,3,p_olum_tar,,
+11800075,4,p_dogum_yer,olarak,new york city, new york, amerika birleşik devletleri,abd
+11800075,1,p_dogum_tar,1944),1944,7,31
+11800075,3,p_olum_tar,,
+11800230,4,p_dogum_yer,izmir),,istanbul, türkiye
+11800230,1,p_dogum_tar,1957,,1957,2,10
+11800230,2,p_olum_tar,2011’de,
+11800255,2,p_dogum_yer,bükreş'te,
+11800255,1,p_dogum_tar,1940),1940,4,13
+11800255,2,p_olum_tar,1963'te,
+11800325,5,p_dogum_yer,,sidney, avustralya,sidney, avustralya
+11800325,1,p_dogum_tar,1917),,1917,9,7
+11800325,3,p_olum_tar,,
+11800389,5,p_dogum_yer,,el huber#ad dammam,dammam, suudi arabistan
+11800389,1,p_dogum_tar,1988),1988,08,28
+11800389,3,p_olum_tar,,
+11800952,5,p_dogum_yer,,chicago, ıllinois
+11800952,1,p_dogum_tar,1927,1927,6,23
+11800952,1,p_olum_tar,1987),1987,9,23
+11801019,5,p_dogum_yer,,roma italya
+11801019,1,p_dogum_tar,1759,,27 mayıs 1759
+11801019,1,p_olum_tar,1858,,1858,11,26
+11801204,1,p_dogum_yer,glasgow'da,glasgow, iskoçya
+11801204,1,p_dogum_tar,1848,1848,5,10
+11801204,1,p_olum_tar,1931,1931,10,2
+11801728,4,p_dogum_yer,balıkesir),edremit, elazığ,türkiye
+11801728,1,p_dogum_tar,1988,,1988,10,4
+11801728,2,p_olum_tar,2004'de,
+11801772,1,p_dogum_yer,paderborn,,paderborn,batı almanya
+11801772,1,p_dogum_tar,1983,,1983,01,13
+11801772,2,p_olum_tar,2001-02,
+11801840,1,p_dogum_yer,samsun),,samsun,türkiye
+11801840,1,p_dogum_tar,1938,,1938,11,2
+11801840,2,p_olum_tar,1966-76,
+11801933,1,p_dogum_yer,gaziantep),,gaziantep,türkiye
+11801933,1,p_dogum_tar,1981,,1981,10,18
+11801933,2,p_olum_tar,2007-08,
+11801934,1,p_dogum_yer,rize),,rize,türkiye
+11801934,1,p_dogum_tar,1984,,1984,7,17
+11801934,2,p_olum_tar,2002,
+11801935,4,p_dogum_yer,van),,van,türkiye
+11801935,1,p_dogum_tar,1985,,1985,1,3
+11801935,2,p_olum_tar,2004-05,
+11801941,1,p_dogum_yer,adapazarı,,adapazarı, sakarya,türkiye
+11801941,1,p_dogum_tar,1989,,1989,12,6
+11801941,2,p_olum_tar,2008,
+11801951,1,p_dogum_yer,bulanık,,bulanık, muş,türkiye
+11801951,1,p_dogum_tar,1981,,1981,1,3
+11801951,2,p_olum_tar,2009-10,
+11802090,1,p_dogum_yer,bursa,türkiye),,bursa,türkiye
+11802090,1,p_dogum_tar,1981,,1981,1,1
+11802090,2,p_olum_tar,2001,
+11802120,4,p_dogum_yer,milas,,of, trabzon,türkiye
+11802120,4,p_dogum_tar,1992;,1991,2,3
+11802120,3,p_olum_tar,,
+11802152,1,p_dogum_yer,milas,,milas, muğla,türkiye
+11802152,1,p_dogum_tar,1992;,1992,2,3
+11802152,3,p_olum_tar,,
+11802154,1,p_dogum_yer,gravenhage),gravenhage,hollanda
+11802154,1,p_dogum_tar,1979,,1979,9,15
+11802154,2,p_olum_tar,1999,
+11802227,5,p_dogum_yer,,boipatong,güney afrika
+11802227,1,p_dogum_tar,1980;,1980,11,25
+11802227,2,p_olum_tar,2010,
+11802328,1,p_dogum_yer,mersin),mersin,türkiye
+11802328,1,p_dogum_tar,1988,,1988,7,22
+11802328,2,p_olum_tar,2006-07,
+11802380,1,p_dogum_yer,rize),,rize,türkiye
+11802380,1,p_dogum_tar,1989,,1989,2,23
+11802380,2,p_olum_tar,2006,
+11802699,5,p_dogum_yer,,bratislava,çekoslovakya
+11802699,1,p_dogum_tar,1989,1989,11,30
+11802699,3,p_olum_tar,,
+11802731,1,p_dogum_yer,holywell),holywell,galler
+11802731,4,p_dogum_tar,1980,,1985,9,5
+11802731,3,p_olum_tar,,
+11802743,1,p_dogum_yer,rio,rio de janeiro,brezilya
+11802743,1,p_dogum_tar,1991,,1991,03,06
+11802743,2,p_olum_tar,2010,
+11802868,5,p_dogum_yer,,joão pinheiro,brezilya
+11802868,1,p_dogum_tar,1981,joão,1981,2,15
+11802868,2,p_olum_tar,2008,
+11803088,5,p_dogum_yer,,olomouc,çek cumhuriyeti
+11803088,1,p_dogum_tar,1977,1977,8,4
+11803088,3,p_olum_tar,,
+11803130,1,p_dogum_yer,avanos,,avanos,türkiye
+11803130,1,p_dogum_tar,1976,,1976,2,4
+11803130,3,p_olum_tar,,
+11803134,1,p_dogum_yer,salihli,,salihli, manisa,türkiye
+11803134,1,p_dogum_tar,1977,,1977,12,25
+11803134,3,p_olum_tar,,
+11803175,5,p_dogum_yer,,aydın,türkiye
+11803175,1,p_dogum_tar,1940,1940,1,1
+11803175,1,p_olum_tar,2003),,2003,2,24
+11803226,1,p_dogum_yer,leningrad,,leningrad,sscb
+11803226,1,p_dogum_tar,1969,1969,10,25
+11803226,3,p_olum_tar,,
+11803254,1,p_dogum_yer,rio,rio de janeiro,brezilya
+11803254,1,p_dogum_tar,1977,,1977,9,2
+11803254,2,p_olum_tar,2002,
+11803259,5,p_dogum_yer,,cenevre,isviçre
+11803259,1,p_dogum_tar,1977,1977,3,8
+11803259,2,p_olum_tar,2005,
+11803271,1,p_dogum_yer,ereğli,,ereğli, konya,türkiye
+11803271,1,p_dogum_tar,1945,1945,10,18
+11803271,3,p_olum_tar,,
+11809281,1,p_dogum_yer,ankara),,türkiye , ankara
+11809281,1,p_dogum_tar,1941,,1941
+11809281,2,p_olum_tar,1997,
+11809408,1,p_dogum_yer,istanbul),beşiktaş, istanbul - türkiye
+11809408,1,p_dogum_tar,1963,,1963
+11809408,2,p_olum_tar,1984,
+11809456,1,p_dogum_yer,rize),,rize,türkiye
+11809456,1,p_dogum_tar,1983,,1983,5,30
+11809456,2,p_olum_tar,2009,
+11809687,2,p_dogum_yer,ankara'da,
+11809687,1,p_dogum_tar,1993),,1993,02,27
+11809687,2,p_olum_tar,2004-2005,
+11809935,5,p_dogum_yer,,:fr:le puy-en-velay,le puy-en-velay, haute-loire,fransa
+11809935,1,p_dogum_tar,1979,,1979,7,27
+11809935,2,p_olum_tar,2008,
+11810214,5,p_dogum_yer,,izmir, türkiye
+11810214,1,p_dogum_tar,1961;,1961,1,1
+11810214,2,p_olum_tar,1990,
+11810768,2,p_dogum_yer,istanbul),,
+11810768,1,p_dogum_tar,1956,,1956
+11810768,2,p_olum_tar,1990'larda,
+11811135,3,p_dogum_yer,,
+11811135,2,p_dogum_tar,1982,
+11811135,1,p_olum_tar,2001),2001,09,5
+11811210,4,p_dogum_yer,1948,,santa ısabel ,lizbon,,santa ısabel, tolima , kolombiya
+11811210,1,p_dogum_tar,ekim,8 ekim 1948
+11811210,2,p_olum_tar,kasım,
+11811557,1,p_dogum_yer,araklı,,araklı, trabzon,türkiye
+11811557,1,p_dogum_tar,1984,,1984,3,1
+11811557,3,p_olum_tar,,
+11812549,1,p_dogum_yer,gijón),,gijón,ispanya
+11812549,1,p_dogum_tar,1970,,1970,5,8
+11812549,2,p_olum_tar,2004,
+11813238,5,p_dogum_yer,,:en:mountain home, ıdaho ,mountain home, ıdaho, amerika birleşik devletleri,abd
+11813238,1,p_dogum_tar,1964,1964,9,11
+11813238,2,p_olum_tar,2009}},
+11813971,1,p_dogum_yer,gdańsk,,gdańsk,polonya
+11813971,1,p_dogum_tar,1950,,1950,10,3
+11813971,2,p_olum_tar,1974,
+11813994,5,p_dogum_yer,,santa luzia,brezilya
+11813994,1,p_dogum_tar,1982),1982,6,10
+11813994,3,p_olum_tar,,
+11814054,1,p_dogum_yer,düzce),,düzce,türkiye
+11814054,1,p_dogum_tar,1980,,1980,11,25
+11814054,2,p_olum_tar,2000,
+11814059,1,p_dogum_yer,rijeka,,rijeka,yugoslavya sosyalist federal cumhuriyeti,sfc yugoslavya
+11814059,1,p_dogum_tar,1978,,1978,10,15
+11814059,3,p_olum_tar,,
+11814061,5,p_dogum_yer,,bad schwalbach,batı almanya
+11814061,5,p_dogum_tar,,1975,01,30
+11814061,2,p_olum_tar,2006,
+11814170,5,p_dogum_yer,,santiago del estero,arjantin
+11814170,1,p_dogum_tar,1953),,1953,7,19
+11814170,3,p_olum_tar,,
+11814171,5,p_dogum_yer,,avellaneda,arjantin
+11814171,1,p_dogum_tar,1946,1946,5,29
+11814171,1,p_olum_tar,1997),,1997,6,18
+11814176,5,p_dogum_yer,,cleland,iskoçya
+11814176,1,p_dogum_tar,1951),,1951,12,15
+11814176,3,p_olum_tar,,
+11814335,5,p_dogum_yer,,kensington, londra, ingiltere
+11814335,1,p_dogum_tar,1967),,1967,8,7
+11814335,3,p_olum_tar,,
+11814425,1,p_dogum_yer,istanbul),istanbul,türkiye
+11814425,1,p_dogum_tar,1987,,1987,9,22
+11814425,2,p_olum_tar,2011,
+11814483,5,p_dogum_yer,,buenos aires,arjantin
+11814483,1,p_dogum_tar,1949),,1949,9,20
+11814483,2,p_olum_tar,2005,
+11814697,5,p_dogum_yer,,hanak, ardahan,türkiye
+11814697,1,p_dogum_tar,1976,1976,7,1
+11814697,2,p_olum_tar,2010-11,
+11815046,1,p_dogum_yer,istanbul),istanbul,türkiye
+11815046,1,p_dogum_tar,1968,,1968,12,26
+11815046,3,p_olum_tar,,
+11815051,1,p_dogum_yer,wesel),wesel,almanya
+11815051,1,p_dogum_tar,1983,,1983,8,13
+11815051,2,p_olum_tar,2007,
+11815226,1,p_dogum_yer,chiavari,,chiavari,italya
+11815226,1,p_dogum_tar,1989,,1989,4,27
+11815226,3,p_olum_tar,,
+11816116,1,p_dogum_yer,kırıkkale'de,kırıkkale, türkiye
+11816116,4,p_dogum_tar,1998'de,1970
+11816116,2,p_olum_tar,1993'te,
+11818328,5,p_dogum_yer,,eceabat, çanakkale
+11818328,1,p_dogum_tar,1945,1945,9,2
+11818328,1,p_olum_tar,2010),2010,1,25
+11818356,1,p_dogum_yer,gebze),gebze, kocaeli  , doğduğuülke = türkiye
+11818356,1,p_dogum_tar,1993,,1993,6,15
+11818356,2,p_olum_tar,2010'da,
+11819196,4,p_dogum_yer,maua,mauá,brezilya
+11819196,1,p_dogum_tar,1983),,1983,8,20
+11819196,2,p_olum_tar,2009,
+11819680,5,p_dogum_yer,,poznań,polonya
+11819680,1,p_dogum_tar,1979,,1979,3,13
+11819680,2,p_olum_tar,1999-00,
+11819710,1,p_dogum_yer,heidelberg,,heidelberg,almanya
+11819710,1,p_dogum_tar,1986,,1986,7,11
+11819710,3,p_olum_tar,,
+11820121,1,p_dogum_yer,oltu,,oltu, erzurum,türkiye
+11820121,1,p_dogum_tar,1987,,1987,08,26
+11820121,3,p_olum_tar,,
+11822460,5,p_dogum_yer,,bişkek, kırgızistan
+11822460,1,p_dogum_tar,1947),1947
+11822460,2,p_olum_tar,2011}},
+11823756,5,p_dogum_yer,,bafra, samsun,türkiye
+11823756,1,p_dogum_tar,1985,1985,6,19
+11823756,1,p_olum_tar,2011),2011,3,15
+11824199,1,p_dogum_yer,kreuzstraßl),,kreuzstraßl,batı almanya
+11824199,1,p_dogum_tar,1949;,1949,12,27
+11824199,2,p_olum_tar,2011,
+11832953,1,p_dogum_yer,akçaabat,,akçaabat, trabzon,türkiye
+11832953,1,p_dogum_tar,1989,,1989,10,1
+11832953,2,p_olum_tar,2011,
+11833212,1,p_dogum_yer,edinburgh,,edinburgh, iskoçya
+11833212,1,p_dogum_tar,1853,,9 şubat 1853
+11833212,1,p_olum_tar,1917,,26 kasım 1917
+11839187,5,p_dogum_yer,,elgin, ıllinois
+11839187,1,p_dogum_tar,1944),1944,11,03
+11839187,2,p_olum_tar,2010,
+11839585,1,p_dogum_yer,trabzon'da,trabzon,türkiye
+11839585,1,p_dogum_tar,1992,1992,8,14
+11839585,1,p_olum_tar,2011),2011,7,16
+11839860,5,p_dogum_yer,,toronto, ontario, kanada
+11839860,3,p_dogum_tar,,
+11839860,2,p_olum_tar,2012}},
+11840604,1,p_dogum_yer,manisa),turgutlu, manisa,türkiye
+11840604,1,p_dogum_tar,1970,,1970,11,16
+11840604,2,p_olum_tar,2011,
+11841412,1,p_dogum_yer,trabzon),,trabzon, türkiye
+11841412,1,p_dogum_tar,1967,,1967
+11841412,2,p_olum_tar,2010,
+11842508,1,p_dogum_yer,jablanica,,jablanica,yugoslavya sosyalist federal cumhuriyeti,yugoslavya sfc
+11842508,1,p_dogum_tar,1952,,1952,10,15
+11842508,2,p_olum_tar,1981,
+11852661,5,p_dogum_yer,,beykoz, istanbul
+11852661,5,p_dogum_tar,,1876,01,12
+11852661,5,p_olum_tar,,1950,04,10
+11855332,1,p_dogum_yer,moanda),,moanda,gabon
+11855332,1,p_dogum_tar,1986,,1986,10,7
+11855332,2,p_olum_tar,2009,
+11855530,1,p_dogum_yer,bulgaristan),,bulgaristan
+11855530,1,p_dogum_tar,1972;,1972,6,1
+11855530,2,p_olum_tar,2009-2010,
+11855722,1,p_dogum_yer,yomra,,yomra, trabzon,türkiye
+11855722,1,p_dogum_tar,1977,,1977,8,5
+11855722,2,p_olum_tar,2004-05,
+11856045,1,p_dogum_yer,londra),,londra,ingiltere
+11856045,1,p_dogum_tar,1956;,1956,02,05
+11856045,2,p_olum_tar,2011,
+11857124,5,p_dogum_yer,,çorlu, tekirdağ, türkiye
+11857124,1,p_dogum_tar,1989),,1989,06,09
+11857124,3,p_olum_tar,,
+11857136,1,p_dogum_yer,ankara),ankara,türkiye
+11857136,1,p_dogum_tar,1959,,1959,2,3
+11857136,2,p_olum_tar,2011,
+11857251,1,p_dogum_yer,istanbul),istanbul,türkiye
+11857251,1,p_dogum_tar,1956,,1956,7,21
+11857251,2,p_olum_tar,2011,
+11858740,5,p_dogum_yer,,liège, belçika,belçika
+11858740,1,p_dogum_tar,1980,,1980,4,20
+11858740,3,p_olum_tar,,
+11860341,5,p_dogum_yer,,bristol, ingiltere
+11860341,1,p_dogum_tar,1932),,1932,04,12
+11860341,2,p_olum_tar,2009-06-28,
+11860364,1,p_dogum_yer,sivas),sivas,türkiye
+11860364,1,p_dogum_tar,1963,,1963,9,10
+11860364,2,p_olum_tar,2011,
+11864432,4,p_dogum_yer,queen's,cape town, güney afrika cumhuriyeti
+11864432,1,p_dogum_tar,1915,2 şubat 1915
+11864432,1,p_olum_tar,2002),17 kasım 2002
+11864868,5,p_dogum_yer,,istanbul, türkiye
+11864868,4,p_dogum_tar,1949'da,1885
+11864868,5,p_olum_tar,,1953
+11867960,1,p_dogum_yer,köln,,köln, almanya
+11867960,1,p_dogum_tar,1819,20 haziran 1819
+11867960,1,p_olum_tar,1880’de,5 ekim 1880
+11867970,1,p_dogum_yer,lüleburgaz,lüleburgaz,türkiye
+11867970,1,p_dogum_tar,1937,,1937
+11867970,2,p_olum_tar,2005,,
+11868253,1,p_dogum_yer,erzurum),,erzurum
+11868253,1,p_dogum_tar,1967;,1967,2,1
+11868253,2,p_olum_tar,1997'de,
+11870529,3,p_dogum_yer,,
+11870529,1,p_dogum_tar,1962),1962
+11870529,2,p_olum_tar,1985,
+11870584,1,p_dogum_yer,istanbul),,istanbul, türkiye
+11870584,1,p_dogum_tar,1960,,1960,1,1
+11870584,2,p_olum_tar,1990,
+11870644,1,p_dogum_yer,stockholm'de,stockholm,  isveç
+11870644,1,p_dogum_tar,1979'da,1979,6,12
+11870644,2,p_olum_tar,1997'de,
+11870710,5,p_dogum_yer,,saarbrücken, batı almanya
+11870710,1,p_dogum_tar,1964,,1964,10,25
+11870710,2,p_olum_tar,1964),
+11870999,5,p_dogum_yer,,istanbul,türkiye
+11870999,1,p_dogum_tar,1961,,16 kasım 1961
+11870999,2,p_olum_tar,1980-1981-1994-1995,
+11871351,5,p_dogum_yer,,mosalskogo, kaluga , sscb
+11871351,4,p_dogum_tar,ağustos,1921,8,16
+11871351,4,p_olum_tar,matbaası,,1999,4,4
+11871890,4,p_dogum_yer,picq,,bridgeport, connecticut,bridgeport, connecticut,
+11871890,1,p_dogum_tar,1977),,1977,10,16
+11871890,2,p_olum_tar,2006'da,
+11871966,1,p_dogum_yer,guimarães),guimarães,portekiz
+11871966,1,p_dogum_tar,1978,,1978,6,5
+11871966,2,p_olum_tar,2002,
+11873011,1,p_dogum_yer,sivas),sivas,türkiye
+11873011,1,p_dogum_tar,1960,,1960,11,24
+11873011,2,p_olum_tar,5-0,
+11873295,1,p_dogum_yer,chincha,chincha alta,peru
+11873295,1,p_dogum_tar,1978;,1978,4,26
+11873295,2,p_olum_tar,3-1,
+11873328,3,p_dogum_yer,,
+11873328,2,p_dogum_tar,1987,
+11873328,4,p_olum_tar,836),,836
+11873330,3,p_dogum_yer,,
+11873330,2,p_dogum_tar,1987,
+11873330,5,p_olum_tar,,30 ocak 970
+11873436,3,p_dogum_yer,,
+11873436,5,p_dogum_tar,,1975,5,18
+11873436,2,p_olum_tar,2010-12-05,
+11873479,5,p_dogum_yer,,balabista, makedonya
+11873479,5,p_dogum_tar,,1106
+11873479,1,p_olum_tar,1142,1142
+11873535,5,p_dogum_yer,,
+11873535,5,p_dogum_tar,,filistin
+11873535,5,p_olum_tar,,
+11873538,5,p_dogum_yer,,glasgow,iskoçya
+11873538,2,p_dogum_tar,1931-32,
+11873538,2,p_olum_tar,1928,
+11873664,2,p_dogum_yer,lee,,
+11873664,1,p_dogum_tar,1962;,1962,10,3
+11873664,3,p_olum_tar,,
+11873691,1,p_dogum_yer,trabzon,of, trabzon,türkiye
+11873691,1,p_dogum_tar,1982,,1982,4,10
+11873691,2,p_olum_tar,2006,
+11873727,1,p_dogum_yer,worcester,,worcester,ingiltere
+11873727,1,p_dogum_tar,1863;,7 ağustos 1863
+11873727,1,p_olum_tar,1923;,2 ekim 1923
+11873742,1,p_dogum_yer,dunfermline,,dunfermline,iskoçya
+11873742,1,p_dogum_tar,1956;,1956,10,12
+11873742,2,p_olum_tar,2010,
+11873765,1,p_dogum_yer,wellington,,wellington, shropshire,wellington,ingiltere
+11873765,1,p_dogum_tar,1885;,1885,4,21
+11873765,1,p_olum_tar,1963;,1963,3,15
+11873782,1,p_dogum_yer,osnabrück,,osnabrück,almanya
+11873782,1,p_dogum_tar,1952,,1952,10,28
+11873782,2,p_olum_tar,1994-95,
+11873946,1,p_dogum_yer,sidney),,sidney,avustralya
+11873946,1,p_dogum_tar,1979;,1979,5,4
+11873946,2,p_olum_tar,2011,
+11874142,1,p_dogum_yer,kopenhag,,kopenhag,danimarka
+11874142,1,p_dogum_tar,1985,,1985,1,31
+11874142,2,p_olum_tar,2002,
+11874199,1,p_dogum_yer,lanark),,lanark,iskoçya
+11874199,1,p_dogum_tar,1948,,1948,2,24
+11874199,2,p_olum_tar,1998,
+11874268,1,p_dogum_yer,anhui),wuhu city,wuhu, anhui,
+11874268,1,p_dogum_tar,1976,,1976,03,12
+11874268,2,p_olum_tar,2000,
+11874362,1,p_dogum_yer,kamina),,kamina,zaire
+11874362,1,p_dogum_tar,1967,1967,12,12
+11874362,2,p_olum_tar,1967),
+11874364,1,p_dogum_yer,kamina),,kamina,zaire
+11874364,1,p_dogum_tar,1978,1978,09,29
+11874364,3,p_olum_tar,,
+11874411,1,p_dogum_yer,köyünde,varna sancağının provadı kazasına bağlı türkarnavutlar köyü, bulgaristan
+11874411,1,p_dogum_tar,1920'de,23 mart 1920
+11874411,1,p_olum_tar,2012}},18 haziran 2012
+11874794,1,p_dogum_yer,ankara),,ankara, türkiye
+11874794,1,p_dogum_tar,1975,,1975,12,26
+11874794,2,p_olum_tar,2012).</ref>,
+11878377,5,p_dogum_yer,,elmira, new york
+11878377,5,p_dogum_tar,,24 kasim 1980 ,32 yasinda,
+11878377,2,p_olum_tar,2008,
+11878383,5,p_dogum_yer,,los angeles, california
+11878383,1,p_dogum_tar,1980),28 ekim 1980 ,30 yasinda,
+11878383,3,p_olum_tar,,
+11878385,5,p_dogum_yer,,dallas, texas
+11878385,1,p_dogum_tar,1986),17 temmuz 1986
+11878385,2,p_olum_tar,2007,
+11879222,1,p_dogum_yer,basel),basel,isviçre
+11879222,1,p_dogum_tar,1988,,1988,2,15
+11879222,2,p_olum_tar,2010,
+11883148,5,p_dogum_yer,,lefkoşa, kıbrıs cumhuriyeti
+11883148,1,p_dogum_tar,1972),1972,04,27
+11883148,2,p_olum_tar,2011,
+11883538,1,p_dogum_yer,mönchengladbach,,mönchengladbach, almanya
+11883538,1,p_dogum_tar,1985,,1985,5,24
+11883538,3,p_olum_tar,,
+11885722,4,p_dogum_yer,1981,,istanbul
+11885722,4,p_dogum_tar,şubat,1981,2,22
+11885722,3,p_olum_tar,,
+11885748,3,p_dogum_yer,,
+11885748,2,p_dogum_tar,1503,,
+11885748,4,p_olum_tar,1466-1467,,1503
+11887632,5,p_dogum_yer,,braunsberg, doğu prusya
+11887632,4,p_dogum_tar,haziran,1924,6,20
+11887632,4,p_olum_tar,ağustos,2006,8,26
+11887661,1,p_dogum_yer,guaramirim),guaramirim,brezilya
+11887661,1,p_dogum_tar,1986,,1986,8,2
+11887661,3,p_olum_tar,,
+11888158,3,p_dogum_yer,,
+11888158,2,p_dogum_tar,1307,,
+11888158,1,p_olum_tar,1307,1307
+11890128,2,p_dogum_yer,mersin),,
+11890128,1,p_dogum_tar,1971;,1971,6,13
+11890128,2,p_olum_tar,2003,
+11891001,1,p_dogum_yer,sidney),,sidney,avustralya
+11891001,1,p_dogum_tar,1978,,1978,3,9
+11891001,2,p_olum_tar,2006,
+11891384,1,p_dogum_yer,kayseri),,kayseri,türkiye
+11891384,1,p_dogum_tar,1978,,1978,10,4
+11891384,2,p_olum_tar,2006/2007,
+11893124,5,p_dogum_yer,,samsun,türkiye
+11893124,1,p_dogum_tar,1982,,1982,9,14
+11893124,2,p_olum_tar,1999,
+11893161,5,p_dogum_yer,,londra,ingiltere
+11893161,1,p_dogum_tar,1941,1941,4,12
+11893161,1,p_olum_tar,1993,,1993,2,24
+11897456,5,p_dogum_yer,,almanya
+11897456,1,p_dogum_tar,1972,1972,12,18
+11897456,2,p_olum_tar,2011,
+11904333,1,p_dogum_yer,izmit),,izmit,türkiye
+11904333,1,p_dogum_tar,1982,,1982,7,23
+11904333,2,p_olum_tar,2005,
+11904515,5,p_dogum_yer,,
+11904515,5,p_dogum_tar,,10 ocak 1958
+11904515,5,p_olum_tar,,24 nisan 2041
+11904935,4,p_dogum_yer,gornji,dynamo české budějovice,bosna hersek
+11904935,1,p_dogum_tar,1992,1992,8,20
+11904935,2,p_olum_tar,2010,
+11905127,1,p_dogum_yer,bursa'da,bursa
+11905127,5,p_dogum_tar,,1966,05,10
+11905127,2,p_olum_tar,2005,
+11906764,1,p_dogum_yer,douala),,douala,kamerun
+11906764,1,p_dogum_tar,1994,,1994,2,10
+11906764,2,p_olum_tar,2006,
+11906888,1,p_dogum_yer,zagreb),,zagreb,hırvatistan
+11906888,1,p_dogum_tar,1988,1988,01,23
+11906888,3,p_olum_tar,,
+11911263,4,p_dogum_yer,perşembe,,ordu,türkiye
+11911263,1,p_dogum_tar,1978,,1978,1,1
+11911263,2,p_olum_tar,1996'da,
+11914089,1,p_dogum_yer,bornova,,bornova, izmir,türkiye
+11914089,1,p_dogum_tar,1986,,1986,1,11
+11914089,2,p_olum_tar,2004,
+11914165,5,p_dogum_yer,,türkiye
+11914165,1,p_dogum_tar,1986),28 temmuz 1986
+11914165,3,p_olum_tar,,
+11915815,1,p_dogum_yer,leeds,leeds
+11915815,1,p_dogum_tar,1978,,1978,10,14
+11915815,2,p_olum_tar,2006,,
+11916948,5,p_dogum_yer,,buenos aires, arjantin
+11916948,1,p_dogum_tar,1956,,1956,8,8
+11916948,3,p_olum_tar,,
+11922164,4,p_dogum_yer,1958,,trabzon türkiye
+11922164,1,p_dogum_tar,mart,30 mart 1958
+11922164,2,p_olum_tar,tamamladı.,
+11923294,5,p_dogum_yer,,mahaçkale, dağıstan, rusya
+11923294,4,p_dogum_tar,1998’de,1977,6,17
+11923294,2,p_olum_tar,1995’te,
+11927978,2,p_dogum_yer,1943'de,
+11927978,1,p_dogum_tar,1943,28 temmuz 1943 hatch end, middlesex, ingiltere
+11927978,1,p_olum_tar,2008),15 eylül 2008
+11933702,1,p_dogum_yer,ha'il),,ha'il,suudi arabistan
+11933702,1,p_dogum_tar,1972,,1972,8,2
+11933702,2,p_olum_tar,2001,
+11933815,5,p_dogum_yer,,xàbia,spain
+11933815,1,p_dogum_tar,1986,1986,11,27
+11933815,3,p_olum_tar,,
+11935536,5,p_dogum_yer,,
+11935536,5,p_dogum_tar,,yıl,ay,gün
+11935536,5,p_olum_tar,,
+11936967,1,p_dogum_yer,new,ogdensburg, new york,ogdensburg, new york
+11936967,1,p_dogum_tar,1959,,1959,10,27
+11936967,2,p_olum_tar,nba</ref><ref>http://www.nba.com/mavericks/news/coaching_hire050708.html,
+11937583,5,p_dogum_yer,,wels, avusturya
+11937583,1,p_dogum_tar,1857,,1857,4,7
+11937583,4,p_olum_tar,1940,,1857,4,7
+11938228,1,p_dogum_yer,strasbourg,,strasbourg, fransa
+11938228,2,p_dogum_tar,1894,,
+11938228,2,p_olum_tar,1945,steiermark,,
+11942714,5,p_dogum_yer,,malatya , türkiye
+11942714,5,p_dogum_tar,,1956,7,24
+11942714,2,p_olum_tar,1993,
+11942773,1,p_dogum_yer,tekirdağ),,tekirdağ,türkiye
+11942773,1,p_dogum_tar,1977,,1977,6,20
+11942773,2,p_olum_tar,2009,
+11946621,1,p_dogum_yer,nova,nova gradiška,hırvatistan
+11946621,1,p_dogum_tar,1973,,1973,8,16
+11946621,3,p_olum_tar,,
+11947584,1,p_dogum_yer,volgograd,volgograd, sovyetler birliği
+11947584,1,p_dogum_tar,1982,1982,02,23
+11947584,2,p_olum_tar,2012|,
+11948663,5,p_dogum_yer,,furmanka, odessa oblastı
+11948663,4,p_dogum_tar,1895,,19 kasım 1896
+11948663,1,p_olum_tar,1970,,1970,3,31
+11948736,5,p_dogum_yer,,lercara friddi, sicilya, italya
+11948736,1,p_dogum_tar,1897,1897,11,24
+11948736,1,p_olum_tar,1962),,1962,1,26
+11950800,2,p_dogum_yer,istanbul,
+11950800,2,p_dogum_tar,1918,,
+11950800,1,p_olum_tar,1960,,1960
+11950918,2,p_dogum_yer,connecticut|ct,,
+11950918,2,p_dogum_tar,1908,,
+11950918,1,p_olum_tar,1986,,1986,3,5
+11951020,3,p_dogum_yer,,
+11951020,2,p_dogum_tar,1749'da,
+11951020,5,p_olum_tar,,16 aralık, 1774
+11952655,1,p_dogum_yer,kartal,,kartal, istanbul,türkiye
+11952655,1,p_dogum_tar,1991,,1991,1,1
+11952655,2,p_olum_tar,2009,
+11952667,5,p_dogum_yer,,izmit, kocaeli,türkiye
+11952667,1,p_dogum_tar,1988,1988,2,25
+11952667,2,p_olum_tar,2004,
+11953262,5,p_dogum_yer,,novi sad,yugoslavya
+11953262,5,p_dogum_tar,,1977,8,15
+11953262,2,p_olum_tar,2007'de,
+11953753,1,p_dogum_yer,rize),,rize,türkiye
+11953753,1,p_dogum_tar,1990,1990,12,15
+11953753,3,p_olum_tar,,
+11955670,3,p_dogum_yer,,
+11955670,3,p_dogum_tar,,
+11955670,1,p_olum_tar,1439),,1439
+11957883,5,p_dogum_yer,,tokat, türkiye
+11957883,1,p_dogum_tar,1967,,1967
+11957883,2,p_olum_tar,2010'da,
+11963787,5,p_dogum_yer,,corral de almaguer, toledo ili,toledo, ispanya
+11963787,1,p_dogum_tar,1984<ref,1984,2,3
+11963787,2,p_olum_tar,2009,
+11964007,4,p_dogum_yer,york,brattleboro, vermont,brattleboro, vermont, abd
+11964007,1,p_dogum_tar,1990),,20 aralık 1990
+11964007,2,p_olum_tar,95.000,
+11964052,5,p_dogum_yer,,inegöl
+11964052,1,p_dogum_tar,1961),,1961,1,1
+11964052,2,p_olum_tar,500’den,
+11964868,1,p_dogum_yer,trebic),,trebic,çekoslovakya
+11964868,1,p_dogum_tar,1979,,1979,4,18
+11964868,3,p_olum_tar,,
+11967741,1,p_dogum_yer,malatya),,malatya
+11967741,1,p_dogum_tar,1977,,1977,6,1
+11967741,2,p_olum_tar,2010,
+11968903,5,p_dogum_yer,,venice beach, california
+11968903,1,p_dogum_tar,1959),,20,03,1959 ,53 yasında,
+11968903,2,p_olum_tar,2011}},
+11978499,5,p_dogum_yer,,doğumyeri
+11978499,5,p_dogum_tar,,
+11978499,5,p_olum_tar,,
+11980980,4,p_dogum_yer,1991,priştine,yugoslavya sosyalist federal cumhuriyeti,yugoslavya sfc
+11980980,1,p_dogum_tar,mart,28 mart 1991
+11980980,3,p_olum_tar,,
+11993109,5,p_dogum_yer,,ıllinois
+11993109,4,p_dogum_tar,1938,4 nisan 1893
+11993109,1,p_olum_tar,1938,6 haziran 1938
+11993701,1,p_dogum_yer,asnæs),asnæs,danimarka
+11993701,1,p_dogum_tar,1980,,1980,2,28
+11993701,2,p_olum_tar,2004,
+11994409,3,p_dogum_yer,,
+11994409,1,p_dogum_tar,1994,18 mayıs 1994
+11994409,2,p_olum_tar,1’e,
+11999910,3,p_dogum_yer,,
+11999910,1,p_dogum_tar,1907,31 mayıs 1907
+11999910,1,p_olum_tar,1971),18 ağustos 1971
+12003306,1,p_dogum_yer,příbram,příbram,çek cumhuriyeti
+12003306,1,p_dogum_tar,1980,,1980,9,13
+12003306,2,p_olum_tar,1999-2000,
+12007877,5,p_dogum_yer,,waldviertel,strones, waldviertel, lower austria
+12007877,1,p_dogum_tar,1837,,1837,6,7
+12007877,1,p_olum_tar,1903,,1903,1,3
+12010920,1,p_dogum_yer,milano'da),milano,italya
+12010920,4,p_dogum_tar,1978,18 ocak 1983
+12010920,3,p_olum_tar,,
+12012397,5,p_dogum_yer,,wiesbaden, hesse-nassau
+12012397,2,p_dogum_tar,1889,
+12012397,2,p_olum_tar,1941),,
+12015799,1,p_dogum_yer,behbahan),,behbahan, ıran
+12015799,1,p_dogum_tar,1940,,july 31 , 1940
+12015799,2,p_olum_tar,1964’te,
+12019146,1,p_dogum_yer,barselona,,barselona, ispanya
+12019146,1,p_dogum_tar,1964,1964
+12019146,3,p_olum_tar,,
+12022561,5,p_dogum_yer,,bayrak,kıbrıs palaichori, kıbrıs cumhuriyeti,kıbrıs
+12022561,1,p_dogum_tar,1933),,1933,10,24
+12022561,2,p_olum_tar,1997,
+12022963,5,p_dogum_yer,,istanbul
+12022963,5,p_dogum_tar,,1992,9,22
+12022963,2,p_olum_tar,2005,
+12023220,1,p_dogum_yer,saraybosna),,saraybosna,bosna-hersek
+12023220,1,p_dogum_tar,1952,,1952,12,1
+12023220,3,p_olum_tar,,
+12023223,1,p_dogum_yer,ankara),,ankara,türkiye
+12023223,1,p_dogum_tar,1938,,1938,1,1
+12023223,3,p_olum_tar,,
+12023226,1,p_dogum_yer,ankara),,ankara,türkiye
+12023226,1,p_dogum_tar,1947,,1947,1,5
+12023226,2,p_olum_tar,1971'de,
+12024870,1,p_dogum_yer,derepazarı,,derepazarı, rize,türkiye
+12024870,1,p_dogum_tar,1941,,1941
+12024870,1,p_olum_tar,1994,,4 mart 1994
+12029254,5,p_dogum_yer,,echternach, luxembourg
+12029254,1,p_dogum_tar,1941),1941,08,02
+12029254,2,p_olum_tar,2007,
+12036514,3,p_dogum_yer,,
+12036514,3,p_dogum_tar,,
+12036514,4,p_olum_tar,1479’da,1487
+12054461,1,p_dogum_yer,kinshasa),kinshasa, zaire,demokratik kongo cumhuriyeti
+12054461,1,p_dogum_tar,1988,,1988,1,8
+12054461,2,p_olum_tar,2006,
+12062493,1,p_dogum_yer,trabzon,trabzon,türkiye
+12062493,1,p_dogum_tar,1951,,1951,1,1
+12062493,1,p_olum_tar,2003,,2003,3,15
+12070257,1,p_dogum_yer,istanbul'da,istanbul
+12070257,1,p_dogum_tar,1956,1956,5,7
+12070257,2,p_olum_tar,45’lik,
+12071833,3,p_dogum_yer,,
+12071833,4,p_dogum_tar,1735,1694,9,13
+12071833,4,p_olum_tar,1762),,1776,3,5
+12072970,5,p_dogum_yer,,tallaght, dublin,irlanda
+12072970,1,p_dogum_tar,1980),,1980,7,8
+12072970,2,p_olum_tar,2008,
+12074485,5,p_dogum_yer,,omsk, sscb
+12074485,5,p_dogum_tar,,1978,11,11
+12074485,5,p_olum_tar,,
+12077114,5,p_dogum_yer,,zaječar, yugoslavya sosyalist federal cumhuriyeti,yugoslavya , sırbistan,
+12077114,1,p_dogum_tar,1950,,1950,8,16
+12077114,2,p_olum_tar,2008,
+12079690,5,p_dogum_yer,,ankara
+12079690,1,p_dogum_tar,1988,,1988,1,27
+12079690,2,p_olum_tar,1,5,
+12079759,1,p_dogum_yer,izmir),izmir, türkiye
+12079759,1,p_dogum_tar,1965,,1965
+12079759,2,p_olum_tar,2002,
+12090645,1,p_dogum_yer,teaneck,,teaneck, new jersey,teaneck, new jersey, amerika birleşik devletleri,abd
+12090645,1,p_dogum_tar,1987,,1987,11,5
+12090645,2,p_olum_tar,2009'da,
+12097206,1,p_dogum_yer,mönchengladbach,,mönchengladbach, almanya
+12097206,1,p_dogum_tar,1983,,1983,9,3
+12097206,2,p_olum_tar,1998,
+12097388,5,p_dogum_yer,,new york usa
+12097388,1,p_dogum_tar,1981,1981,8,24
+12097388,2,p_olum_tar,2005'te,
+12098419,1,p_dogum_yer,malkara,,malkara, tekirdağ, osmanlı imparatorluğu
+12098419,1,p_dogum_tar,1882,,1882
+12098419,1,p_olum_tar,1951),1951,5,30
+12098547,1,p_dogum_yer,manisa,,manisa, osmanlı imparatorluğu
+12098547,1,p_dogum_tar,1900,,1900
+12098547,1,p_olum_tar,1978).,1978,10,22
+12098673,1,p_dogum_yer,bakü),,bakü, azerbaycan
+12098673,1,p_dogum_tar,1954,,1954,4,19
+12098673,2,p_olum_tar,1988-1990,
+12099670,5,p_dogum_yer,,edirne
+12099670,4,p_dogum_tar,1952,1903
+12099670,1,p_olum_tar,1978),,27 eylül 1978
+12099897,1,p_dogum_yer,istanbul,,istanbul
+12099897,1,p_dogum_tar,1895,,1895
+12099897,1,p_olum_tar,1958),,28 temmuz 1958
+12100453,5,p_dogum_yer,,bursa
+12100453,1,p_dogum_tar,1981),24 ocak 1981
+12100453,3,p_olum_tar,,
+12102411,1,p_dogum_yer,izmir),,izmir, türkiye
+12102411,1,p_dogum_tar,1984,,1984,08,15
+12102411,2,p_olum_tar,2011,
+12102510,1,p_dogum_yer,ankara),,ankara,türkiye
+12102510,1,p_dogum_tar,1976,,1976,10,30
+12102510,2,p_olum_tar,1995-2000,
+12102974,1,p_dogum_yer,thetford'da,thetford, norfolk, ingiltere, büyük britanya krallığı,büyük britanya
+12102974,1,p_dogum_tar,1737,9 şubat 1737
+12102974,1,p_olum_tar,1809).,1809,6,8
+12107447,5,p_dogum_yer,,bayrak,türkiye adana, türkiye
+12107447,1,p_dogum_tar,1968,,1968,4,18
+12107447,2,p_olum_tar,1991,
+12107688,4,p_dogum_yer,wolverhampton,ıronbridge, shropshire,ingiltere
+12107688,1,p_dogum_tar,1924,6 şubat 1924
+12107688,1,p_olum_tar,1994),,1994,9,3
+12108753,5,p_dogum_yer,,midilli adası, osmanlı imparatorluğu
+12108753,4,p_dogum_tar,1920'de,1885
+12108753,4,p_olum_tar,1911,1955,4,24
+12109106,1,p_dogum_yer,incesu,,incesu, kayseri, türkiye
+12109106,1,p_dogum_tar,1930,1930
+12109106,2,p_olum_tar,1991,
+12110672,5,p_dogum_yer,,chicago, ıllinois
+12110672,1,p_dogum_tar,1961,,1961,9,22
+12110672,3,p_olum_tar,,
+12111225,1,p_dogum_yer,kandiye,kandiye, girit, osmanlı imparatorluğu
+12111225,1,p_dogum_tar,1896,,1896
+12111225,1,p_olum_tar,1935,,1935,6,2
+12111844,1,p_dogum_yer,artvin),,artvin, osmanlı imparatorluğu
+12111844,1,p_dogum_tar,1918,,1918
+12111844,1,p_olum_tar,2008,,2008,5,6
+12114168,2,p_dogum_yer,izmir,),
+12114168,1,p_dogum_tar,1988;,9 aralık 1988
+12114168,3,p_olum_tar,,
+12114703,1,p_dogum_yer,newcastle,newcastle upon tyne,ingiltere
+12114703,1,p_dogum_tar,1953;,1953,11,25
+12114703,2,p_olum_tar,2007,
+12114787,1,p_dogum_yer,new,new york city, new york, amerika birleşik devletleri,abd
+12114787,1,p_dogum_tar,1931,,4 ekim 1931
+12114787,1,p_olum_tar,2007,,2007,06,8
+12117644,1,p_dogum_yer,adapazarı,adapazarı, türkiye
+12117644,1,p_dogum_tar,1929,,1929
+12117644,1,p_olum_tar,1983,,1983,7,8
+12118228,4,p_dogum_yer,sonra,l'ısle-sur-la-sorgue
+12118228,1,p_dogum_tar,1907,,1907,6,14
+12118228,1,p_olum_tar,1988,,1988,2,19
+12118328,1,p_dogum_yer,gölcük,,gölcük, kocaeli, türkiye
+12118328,1,p_dogum_tar,1955,,1955
+12118328,1,p_olum_tar,2009,,2009 54 yaş
+12118449,1,p_dogum_yer,amasya),,amasya
+12118449,1,p_dogum_tar,1982,,1982
+12118449,2,p_olum_tar,2006,
+12118675,1,p_dogum_yer,denizli’de,denizli, türkiye
+12118675,1,p_dogum_tar,1965,,1965,6,6
+12118675,2,p_olum_tar,1990-1998|98,
+12121087,1,p_dogum_yer,rize),rize,türkiye
+12121087,1,p_dogum_tar,1962,,1962,10,7
+12121087,3,p_olum_tar,,
+12121381,5,p_dogum_yer,,romford, londra,ingiltere
+12121381,1,p_dogum_tar,1966,1966,10,10
+12121381,3,p_olum_tar,,
+12122198,5,p_dogum_yer,,rogaçev, rusya
+12122198,4,p_dogum_tar,1938'de,13 ocak 1919
+12122198,1,p_olum_tar,1982),28 haziran 1982
+12124007,5,p_dogum_yer,,coatesville, pennsylvania
+12124007,1,p_dogum_tar,1978),1978,2,14
+12124007,3,p_olum_tar,,
+12128452,1,p_dogum_yer,istanbul,,istanbul, türkiye
+12128452,1,p_dogum_tar,1981,,1981,11,10
+12128452,2,p_olum_tar,2000-2006,
+12128984,2,p_dogum_yer,blainville'de,
+12128984,2,p_dogum_tar,1887,
+12128984,1,p_olum_tar,1968,2 ekim, 1968
+12129786,3,p_dogum_yer,,
+12129786,4,p_dogum_tar,1975,1950 , erivan,ermenistan
+12129786,3,p_olum_tar,,
+12131583,5,p_dogum_yer,,cambridge, cambridgeshire, ingiltere
+12131583,1,p_dogum_tar,1923,29 ağustos 1923
+12131583,3,p_olum_tar,,
+12136056,5,p_dogum_yer,,riyad, suudi arabistan
+12136056,1,p_dogum_tar,1970,,1970,4,18
+12136056,2,p_olum_tar,2005'te,
+12136374,5,p_dogum_yer,,çorum türkiye
+12136374,5,p_dogum_tar,,1919
+12136374,2,p_olum_tar,1950,
+12137501,4,p_dogum_yer,edirne'de,tur
+12137501,5,p_dogum_tar,,21 ağustos 1991
+12137501,2,p_olum_tar,2007,
+12138661,5,p_dogum_yer,,marsilya
+12138661,1,p_dogum_tar,1896,,5 eylül 1896
+12138661,1,p_olum_tar,1948,,4 mart 1948
+12141799,5,p_dogum_yer,,bamako, mali,
+12141799,4,p_dogum_tar,şubat,1968,02,25
+12141799,2,p_olum_tar,ve,
+12144641,2,p_dogum_yer,kişi,
+12144641,3,p_dogum_tar,,
+12144641,1,p_olum_tar,1655,ocak 1655
+12145101,3,p_dogum_yer,,
+12145101,5,p_dogum_tar,,420
+12145101,1,p_olum_tar,472,11 temmuz 472
+12145949,5,p_dogum_yer,,batman,türkiye
+12145949,1,p_dogum_tar,1972,1972,3,3
+12145949,2,p_olum_tar,2004'te,
+12146554,3,p_dogum_yer,,
+12146554,2,p_dogum_tar,1622,
+12146554,1,p_olum_tar,1626),temmuz 1626
+12146590,3,p_dogum_yer,,
+12146590,2,p_dogum_tar,haziran,
+12146590,1,p_olum_tar,mart,21 mart 1653
+12147187,1,p_dogum_yer,washington,washington d.c., amerika birleşik devletleri,abd
+12147187,1,p_dogum_tar,1942,,21 ekim 1942
+12147187,2,p_olum_tar,1963'de,
+12148002,1,p_dogum_yer,dornach),dornach,isviçre
+12148002,1,p_dogum_tar,1977,,1977,7,7
+12148002,2,p_olum_tar,2000-01,
+12149282,1,p_dogum_yer,priştine),priştine,yugoslavya sosyalist federal cumhuriyeti,yugoslavya sfc
+12149282,1,p_dogum_tar,1983,,1983,7,27
+12149282,2,p_olum_tar,2000-2002,
+12151160,4,p_dogum_yer,romford,,paddington, londra,ingiltere
+12151160,1,p_dogum_tar,1981,1981,11,8
+12151160,2,p_olum_tar,2006,
+12151931,4,p_dogum_yer,eyaletinde,newport news, virginia, amerika birleşik devletleri,abd
+12151931,1,p_dogum_tar,1917,1917,04,25
+12151931,1,p_olum_tar,1996),1996,06,15
+12153113,1,p_dogum_yer,beringen,,beringen,belçika
+12153113,1,p_dogum_tar,1992;,1992,2,7
+12153113,2,p_olum_tar,2008,
+12154432,5,p_dogum_yer,,asunción,paraguay
+12154432,1,p_dogum_tar,1981,,1981,8,16
+12154432,2,p_olum_tar,2009-07-31,
+12156495,1,p_dogum_yer,vakfıkebir,,vakfıkebir, trabzon,türkiye
+12156495,1,p_dogum_tar,1986,,1986,1,1
+12156495,2,p_olum_tar,2009-10,
+12157265,1,p_dogum_yer,izmir'de,izmir türkiye
+12157265,1,p_dogum_tar,1954),1954,13,05
+12157265,2,p_olum_tar,1973,
+12160173,1,p_dogum_yer,çamaş,,çamaş, ordu, osmanlı devleti
+12160173,1,p_dogum_tar,1871,,1871
+12160173,1,p_olum_tar,1954,,12 mayıs 1954
+12160651,1,p_dogum_yer,istanbul|fatih'te,fatih, istanbul
+12160651,5,p_dogum_tar,,1932
+12160651,1,p_olum_tar,2006),,7 aralık 2006
+12160902,1,p_dogum_yer,hannover),,hannover,almanya
+12160902,1,p_dogum_tar,1978,,1978,8,29
+12160902,2,p_olum_tar,2007-2008,
+12160961,1,p_dogum_yer,gary,,gary, ındiana, amerika birleşik devletleri,abd
+12160961,1,p_dogum_tar,1966,,1966,5,16
+12160961,2,p_olum_tar,1989'da,
+12161633,5,p_dogum_yer,,ankara
+12161633,1,p_dogum_tar,1955,1955
+12161633,3,p_olum_tar,,
+12163879,1,p_dogum_yer,eminönü,,eminönü, istanbul,türkiye
+12163879,1,p_dogum_tar,1989,,1989,5,4
+12163879,2,p_olum_tar,2008,
+12164514,5,p_dogum_yer,,boca raton, florida, u.s.
+12164514,1,p_dogum_tar,1993),,1993,06,26
+12164514,3,p_olum_tar,,
+12165568,5,p_dogum_yer,,lubao, pampanga, filipinler
+12165568,1,p_dogum_tar,1910,28 eylül 1910
+12165568,1,p_olum_tar,1997),21 nisan 1997
+12165683,1,p_dogum_yer,panagia,,panagia, baf,panagia, baf, kıbrıs ,kıbrıs
+12165683,1,p_dogum_tar,1960,,1 haziran 1960
+12165683,2,p_olum_tar,1996,
+12166124,1,p_dogum_yer,bebedouro),,bebedouro,brezilya
+12166124,1,p_dogum_tar,1984,1984,4,1
+12166124,3,p_olum_tar,,
+12166493,1,p_dogum_yer,sidney),,sidney,avustralya
+12166493,1,p_dogum_tar,1984,,1984,8,3
+12166493,2,p_olum_tar,2006,
+12167229,1,p_dogum_yer,glasgow,,glasgow,iskoçya
+12167229,1,p_dogum_tar,1955;,1955,11,30
+12167229,2,p_olum_tar,2007'de,
+12168422,5,p_dogum_yer,,solarolo, ravenna ili, italya
+12168422,1,p_dogum_tar,1974),,16 mayıs 1974
+12168422,2,p_olum_tar,1993'de,
+12168929,1,p_dogum_yer,türk,,arnhem, hollanda bayraksimge,türkiye
+12168929,1,p_dogum_tar,1983;hollanda),1983,10,22
+12168929,2,p_olum_tar,2012'de,
+12169064,2,p_dogum_yer,izmir)<ref>http://www.stopplay.net/wordpress/?p=72,
+12169064,4,p_dogum_tar,1989,,7 şubat 1981  <!--  <br> --> izmir, tr ,türkiye,
+12169064,2,p_olum_tar,2009<ref>http://tr.wikipedia.org/wiki/hunharca,
+12169896,1,p_dogum_yer,gana),,gana
+12169896,1,p_dogum_tar,1990,,1990,1,1
+12169896,3,p_olum_tar,,
+12173364,5,p_dogum_yer,,bursa, türkiye
+12173364,1,p_dogum_tar,1961),1961,1,10
+12173364,2,p_olum_tar,2000,
+12173679,1,p_dogum_yer,warracknabeal'da,warracknabeal, victoria, avustralya
+12173679,1,p_dogum_tar,1957),1957,9,22
+12173679,2,p_olum_tar,2004),
+12173831,1,p_dogum_yer,köln),,köln,almanya
+12173831,1,p_dogum_tar,1985,,1985,6,9
+12173831,2,p_olum_tar,2010,
+12174030,1,p_dogum_yer,porto),,porto,portekiz
+12174030,1,p_dogum_tar,1987,,1987,2,14
+12174030,2,p_olum_tar,2013,
+12174074,1,p_dogum_yer,ılıca),,ılıca,türkiye
+12174074,4,p_dogum_tar,1992,,1993,12,23
+12174074,2,p_olum_tar,2011,
+12174078,5,p_dogum_yer,,kadıköy, istanbul,türkiye
+12174078,1,p_dogum_tar,1938,,1938,1,1
+12174078,1,p_olum_tar,2004),,2004,2,7
+12174231,5,p_dogum_yer,,rize,türkiye
+12174231,1,p_dogum_tar,1936,,1936,1,1
+12174231,3,p_olum_tar,,
+12174305,1,p_dogum_yer,istanbul),,istanbul,türkiye
+12174305,1,p_dogum_tar,1927,,1927,3,2
+12174305,3,p_olum_tar,,
+12174329,1,p_dogum_yer,gaziantep,gaziantep,türkiye
+12174329,1,p_dogum_tar,1978,,1978,6,8
+12174329,2,p_olum_tar,2010,
+12174330,5,p_dogum_yer,,istanbul,türkiye
+12174330,1,p_dogum_tar,1899,1899,1,1
+12174330,1,p_olum_tar,1991),,1991,1,1
+12174337,1,p_dogum_yer,tekirdağ),,tekirdağ,türkiye
+12174337,1,p_dogum_tar,1956,,1956,1,20
+12174337,3,p_olum_tar,,
+12174368,1,p_dogum_yer,istanbul),,istanbul,bulgaristan
+12174368,1,p_dogum_tar,1928;,1928,1,1
+12174368,2,p_olum_tar,1964-65,
+12174372,4,p_dogum_yer,ankaragücü'ne,bakırköy, istanbul,türkiye
+12174372,1,p_dogum_tar,1986,,1986,4,30
+12174372,2,p_olum_tar,2004-2005,
+12174418,1,p_dogum_yer,istanbul),,istanbul,türkiye
+12174418,1,p_dogum_tar,1950,,1950,1,1
+12174418,2,p_olum_tar,11'de,
+12174610,1,p_dogum_yer,istanbul),istanbul,türkiye
+12174610,1,p_dogum_tar,1924,,1924,1,1
+12174610,5,p_olum_tar,,2012,2,23
+12174668,1,p_dogum_yer,erzurum),,erzurum,türkiye
+12174668,1,p_dogum_tar,1983,,1983,2,3
+12174668,2,p_olum_tar,2005-2006,
+12174715,1,p_dogum_yer,reşadiye,,reşadiye, tokat,türkiye
+12174715,1,p_dogum_tar,1979,,1979,1,1
+12174715,2,p_olum_tar,2006-07,
+12174742,1,p_dogum_yer,bursa),,bursa,türkiye
+12174742,1,p_dogum_tar,1983,,1983,5,28
+12174742,2,p_olum_tar,2004,
+12174756,1,p_dogum_yer,ribeirão,ribeirão preto, sao paulo,brezilya
+12174756,1,p_dogum_tar,1985,,1985,3,22
+12174756,3,p_olum_tar,,
+12174775,1,p_dogum_yer,bursa),bursa,türkiye
+12174775,1,p_dogum_tar,1988,,1988,4,23
+12174775,2,p_olum_tar,2005,
+12175099,1,p_dogum_yer,izmir),,izmir
+12175099,1,p_dogum_tar,1991,,1991
+12175099,3,p_olum_tar,,
+12175360,5,p_dogum_yer,,saniba, osetya
+12175360,1,p_dogum_tar,1867,,1867
+12175360,1,p_olum_tar,1933,,1933,1,16
+12176881,1,p_dogum_yer,city'de,angeles city, pampanga, filipinler
+12176881,1,p_dogum_tar,1974),1974,11,28
+12176881,2,p_olum_tar,2009'da,
+12177289,5,p_dogum_yer,,ıstanbul, türkiye
+12177289,1,p_dogum_tar,1976,1976,08,17
+12177289,2,p_olum_tar,180'den,
+12177372,4,p_dogum_yer,üniversitesi|berlin,ostenfelde, münster, prusya krallığı
+12177372,1,p_dogum_tar,1815,,31 ekim 1815
+12177372,1,p_olum_tar,1897,,1897,2,19
+12178499,1,p_dogum_yer,kategori:istanbul,istanbul
+12178499,2,p_dogum_tar,1730,
+12178499,1,p_olum_tar,1737,1737
+12178586,4,p_dogum_yer,o,barla, ısparta
+12178586,2,p_dogum_tar,mart,
+12178586,4,p_olum_tar,ocak,1743
+12180198,1,p_dogum_yer,münih),,münih,almanya
+12180198,1,p_dogum_tar,1983,,1983,01,26
+12180198,2,p_olum_tar,2009-2010,
+12180235,5,p_dogum_yer,,adana,türkiye
+12180235,1,p_dogum_tar,1976,1976,6,17
+12180235,2,p_olum_tar,2002,
+12181252,5,p_dogum_yer,,türkiye , istanbul
+12181252,1,p_dogum_tar,1988,13 haziran 1988
+12181252,2,p_olum_tar,2006,
+12181755,3,p_dogum_yer,,
+12181755,2,p_dogum_tar,temmuz,
+12181755,1,p_olum_tar,mayıs,mayıs 1753
+12182043,1,p_dogum_yer,hozat,hozat, tunceli
+12182043,1,p_dogum_tar,1964,,1964
+12182043,2,p_olum_tar,1992,
+12182135,1,p_dogum_yer,dina,,dina, jhelum district, britanya hindistanı
+12182135,1,p_dogum_tar,1936,,18 ağustos 1936
+12182135,2,p_olum_tar,1976,
+12182818,1,p_dogum_yer,jersey,jersey city, new jersey,jersey city
+12182818,1,p_dogum_tar,1846,1846,1,3
+12182818,1,p_olum_tar,1920),1920,2,24
+12184015,5,p_dogum_yer,,quşlawıç, kazan ,kazan bölgesi, rus imparatorluğu
+12184015,4,p_dogum_tar,1895,26 nisan 1886
+12184015,5,p_olum_tar,,15 nisan, 1913
+12184306,1,p_dogum_yer,dakar,,dakar,senegal
+12184306,1,p_dogum_tar,1981,,1981,12,22
+12184306,3,p_olum_tar,,
+12185097,5,p_dogum_yer,,williamstown, massachusetts, amerika birleşik devletleri,abd
+12185097,1,p_dogum_tar,1969;,1969,8,19
+12185097,2,p_olum_tar,2001,
+12187526,2,p_dogum_yer,magdeburg,
+12187526,1,p_dogum_tar,1987,,31 mart 1987
+12187526,2,p_olum_tar,2012‎}},
+12187738,1,p_dogum_yer,sofya),sofya,bulgaristan
+12187738,1,p_dogum_tar,1967,,1967,8,12
+12187738,2,p_olum_tar,3+1,
+12188606,1,p_dogum_yer,sürmene,,sürmene, trabzon,türkiye
+12188606,1,p_dogum_tar,1990;,1990,11,20
+12188606,3,p_olum_tar,,
+12191304,3,p_dogum_yer,,
+12191304,1,p_dogum_tar,1981)las,21 haziran 1981 las vegas
+12191304,2,p_olum_tar,2010,
+12191574,1,p_dogum_yer,giresun)<ref>{{web,giresun, merkez
+12191574,1,p_dogum_tar,1969,,1969,3,9
+12191574,2,p_olum_tar,2012}}</ref>,,
+12192104,5,p_dogum_yer,,chesterfield, ingiltere
+12192104,1,p_dogum_tar,1886,1886,9,13
+12192104,1,p_olum_tar,1975),1975,2,8
+12192400,1,p_dogum_yer,istanbul'da,istanbul, türkiye
+12192400,1,p_dogum_tar,1954,1954
+12192400,2,p_olum_tar,1999,
+12193152,5,p_dogum_yer,,lisbon,portekiz
+12193152,1,p_dogum_tar,1962,1962,10,4
+12193152,2,p_olum_tar,2005,
+12195388,3,p_dogum_yer,,
+12195388,5,p_dogum_tar,,1990,02,11
+12195388,2,p_olum_tar,2006,
+12197701,1,p_dogum_yer,eskişehir),,eskişehir, türkiye
+12197701,1,p_dogum_tar,1957,,1957
+12197701,2,p_olum_tar,2004,
+12198350,1,p_dogum_yer,pazar'da,novi pazar, yugoslavya sosyalist federal cumhuriyeti,sırbistan sr, yugoslavya sosyalist federal cumhuriyeti,yugoslavya sfr
+12198350,1,p_dogum_tar,1976;,1976,06,07
+12198350,2,p_olum_tar,2005'te,
+12201036,5,p_dogum_yer,,van, türkiye
+12201036,1,p_dogum_tar,1959,1959,3,5
+12201036,2,p_olum_tar,1988-1991,
+12206445,1,p_dogum_yer,oldham,,oldham, lancashire,ingiltere
+12206445,1,p_dogum_tar,1966;,1966,6,10
+12206445,2,p_olum_tar,1985'te,
+12210089,4,p_dogum_yer,kangal,,sivas
+12210089,1,p_dogum_tar,1935,1935
+12210089,1,p_olum_tar,1983;,8 ocak 1983
+12211429,5,p_dogum_yer,,mojkovac,karadağ
+12211429,1,p_dogum_tar,1954),1954,11,2
+12211429,2,p_olum_tar,1973,
+12211665,3,p_dogum_yer,,
+12211665,1,p_dogum_tar,1982,1982,10,21
+12211665,2,p_olum_tar,7,4,
+12212368,5,p_dogum_yer,,
+12212368,5,p_dogum_tar,,1986
+12212368,5,p_olum_tar,,
+12214729,1,p_dogum_yer,yusufeli,,yusufeli, artvin
+12214729,1,p_dogum_tar,1945,,1945,1,8
+12214729,2,p_olum_tar,2004,
+12215185,1,p_dogum_yer,engindere,engindere ,askoroz,, rize,türkiye
+12215185,1,p_dogum_tar,1989,,1989,8,10
+12215185,2,p_olum_tar,2011-2012,
+12216978,2,p_dogum_yer,ankara),,
+12216978,1,p_dogum_tar,1969,,29 temmuz 1969, ankara
+12216978,2,p_olum_tar,2012}},
+12218416,1,p_dogum_yer,ankara,,ankara, türkiye
+12218416,1,p_dogum_tar,1954,,1954,3,26
+12218416,2,p_olum_tar,1977,
+12218426,5,p_dogum_yer,,bahçesaray, van, türkiye
+12218426,1,p_dogum_tar,1970,,1970,12,12
+12218426,3,p_olum_tar,,
+12218470,5,p_dogum_yer,,mardin, türkiye
+12218470,5,p_dogum_tar,,
+12218470,5,p_olum_tar,,
+12219347,5,p_dogum_yer,,soçi, rusya sovyet federatif sosyalist cumhuriyeti,rusya, sscb
+12219347,1,p_dogum_tar,1958,1958,10,21
+12219347,3,p_olum_tar,,
+12219865,3,p_dogum_yer,,
+12219865,1,p_dogum_tar,1988),,8 eylül 1988
+12219865,2,p_olum_tar,2009′da,
+12223179,3,p_dogum_yer,,
+12223179,1,p_dogum_tar,1973,,1973,11,15
+12223179,2,p_olum_tar,2007,
+12224781,2,p_dogum_yer,ingiltere’de,
+12224781,1,p_dogum_tar,1981),1981,5,5
+12224781,2,p_olum_tar,2009}},
+12224804,5,p_dogum_yer,,detroit, michigan, amerika birleşik devletleri,abd
+12224804,1,p_dogum_tar,1942),,1942,3,25
+12224804,3,p_olum_tar,,
+12225233,1,p_dogum_yer,eisenach,almanya , eisenach
+12225233,1,p_dogum_tar,1840,,23 ocak 1840
+12225233,1,p_olum_tar,1905,,14 ocak 1905
+12226701,1,p_dogum_yer,erzurum,erzurum, türkiye
+12226701,1,p_dogum_tar,1944,,1944
+12226701,1,p_olum_tar,1989,<ref,1989,10,20
+12226945,4,p_dogum_yer,lakewood,,ohio,amerika birleşik devletleri,abd
+12226945,1,p_dogum_tar,1971;,1971,5,18
+12226945,2,p_olum_tar,1990,
+12228868,5,p_dogum_yer,,türkiye
+12228868,5,p_dogum_tar,,1953 milas,muğla
+12228868,5,p_olum_tar,,
+12230143,4,p_dogum_yer,markham,,stillingfleet, ingiltere
+12230143,1,p_dogum_tar,1830,1830,7,20
+12230143,1,p_olum_tar,1916)'',1916,1,29
+12233784,5,p_dogum_yer,,baden-baden
+12233784,1,p_dogum_tar,1867,,1867,7,10
+12233784,1,p_olum_tar,1929,,1929,11,6
+12233811,5,p_dogum_yer,,stevenage, hertfordshire,ingiltere
+12233811,1,p_dogum_tar,1992,1992,1,1
+12233811,3,p_olum_tar,,
+12233964,1,p_dogum_yer,ludwigshafen-almanya),,ludwigshafen am rhein, almanya
+12233964,1,p_dogum_tar,1930,,1930,4,3
+12233964,2,p_olum_tar,1990,
+12234032,1,p_dogum_yer,hertfordshire,,bishop's stortford, hertfordshire, ingiltere
+12234032,1,p_dogum_tar,1853,,5 temmuz 1853
+12234032,1,p_olum_tar,1902,,26 mart 1902
+12234783,4,p_dogum_yer,neu-ulm),gelsenkirchen,batı almanya
+12234783,1,p_dogum_tar,1988,,1988,2,26
+12234783,2,p_olum_tar,2010-11,
+12235420,5,p_dogum_yer,,marylebone, londra, ingiltere
+12235420,1,p_dogum_tar,1948,,1948,7,21
+12235420,2,p_olum_tar,1977,
+12238558,5,p_dogum_yer,,
+12238558,5,p_dogum_tar,,yıl,ay,gün
+12238558,5,p_olum_tar,,
+12241913,5,p_dogum_yer,,afipsip, adigey, sovyet sosyalist cumhuriyetler birliği,sscb
+12241913,5,p_dogum_tar,,1937,5,1
+12241913,2,p_olum_tar,1937,afıpsıp,
+12241919,1,p_dogum_yer,romanya'da,râmnicu sărat, romanya
+12241919,1,p_dogum_tar,1914&nbsp;–,1914,6,15
+12241919,1,p_olum_tar,1999),1999,5,12
+12242259,3,p_dogum_yer,,
+12242259,1,p_dogum_tar,1978<ref>http://home.c2i.net/famhegg/blackmet.htm,1978,5,7
+12242259,2,p_olum_tar,1991,
+12242268,3,p_dogum_yer,,
+12242268,1,p_dogum_tar,1978),1978,5,7
+12242268,2,p_olum_tar,1991,
+12244205,1,p_dogum_yer,elazığ),,elazığ,türkiye
+12244205,1,p_dogum_tar,1938,,1938,6,20
+12244205,2,p_olum_tar,2007,
+12244354,1,p_dogum_yer,uşak,,uşak
+12244354,1,p_dogum_tar,1959,,1959
+12244354,2,p_olum_tar,1996,
+12244389,5,p_dogum_yer,,istanbul tur
+12244389,1,p_dogum_tar,1990,1990,8,8
+12244389,3,p_olum_tar,,
+12246131,5,p_dogum_yer,,los angeles usa
+12246131,1,p_dogum_tar,1963),,1963,8,6
+12246131,2,p_olum_tar,2003'te,
+12246153,5,p_dogum_yer,,istanbul, türkiye
+12246153,1,p_dogum_tar,1973,1973,8,27
+12246153,2,p_olum_tar,1994'te,,
+12246445,1,p_dogum_yer,dachau),,almanya , dachau
+12246445,1,p_dogum_tar,1975,,1975
+12246445,3,p_olum_tar,,
+12246631,1,p_dogum_yer,peni-houet,),,peni-houet,burkina faso
+12246631,1,p_dogum_tar,1982,,1982,7,1
+12246631,3,p_olum_tar,,
+12246868,1,p_dogum_yer,maracay<ref>{{web,maracay,venezuela
+12246868,1,p_dogum_tar,1983;,1983,10,19
+12246868,2,p_olum_tar,2010,
+12248460,1,p_dogum_yer,ankara),,ankara
+12248460,1,p_dogum_tar,1970,,1970,1,1
+12248460,2,p_olum_tar,1996,
+12249464,5,p_dogum_yer,,westwood, los angeles, california
+12249464,1,p_dogum_tar,1984),1984,10,26
+12249464,3,p_olum_tar,,
+12249923,5,p_dogum_yer,,romford essex ingiltere
+12249923,1,p_dogum_tar,1974,,1974,3,28
+12249923,2,p_olum_tar,1997,
+12250074,5,p_dogum_yer,,bucheon, gyeonggi-do
+12250074,5,p_dogum_tar,,1990,9,5
+12250074,2,p_olum_tar,1990,,
+12250257,5,p_dogum_yer,,florida,uruguay
+12250257,1,p_dogum_tar,1983,7 mart 1983
+12250257,3,p_olum_tar,,
+12250979,1,p_dogum_yer,istanbul’da,istanbul , osmanlı devleti
+12250979,1,p_dogum_tar,1891,12 temmuz 1891
+12250979,1,p_olum_tar,1971),,23 şubat 1971
+12252611,5,p_dogum_yer,,martigny
+12252611,1,p_dogum_tar,1985,1985,4,2
+12252611,2,p_olum_tar,2006,
+12252759,3,p_dogum_yer,,
+12252759,1,p_dogum_tar,1987),,1987,10,24
+12252759,2,p_olum_tar,2009–2010,
+12252779,3,p_dogum_yer,,
+12252779,1,p_dogum_tar,1987),,1987,1,1
+12252779,2,p_olum_tar,2009–2010,
+12252932,1,p_dogum_yer,kassel),kassel,almanya
+12252932,1,p_dogum_tar,1986,,1986,11,20
+12252932,2,p_olum_tar,2009,
+12253000,1,p_dogum_yer,bignona),,bignona,senegal
+12253000,1,p_dogum_tar,1983,1983,12,20
+12253000,2,p_olum_tar,2010,
+12255822,2,p_dogum_yer,kurashiki,,
+12255822,1,p_dogum_tar,1986;,1986,3,16
+12255822,2,p_olum_tar,2007,
+12255834,3,p_dogum_yer,,
+12255834,1,p_dogum_tar,1981),1981,12,29
+12255834,2,p_olum_tar,2004,
+12255882,3,p_dogum_yer,,
+12255882,1,p_dogum_tar,1980,,1980,3,18
+12255882,2,p_olum_tar,2008-02-28,
+12255920,1,p_dogum_yer,nevinnomyssk,,nevinnomirsk
+12255920,1,p_dogum_tar,1977,,1977,10,11
+12255920,2,p_olum_tar,1996,
+12256001,3,p_dogum_yer,,
+12256001,1,p_dogum_tar,1973,,1973,2,18
+12256001,2,p_olum_tar,2002,
+12256082,2,p_dogum_yer,moskova,,
+12256082,1,p_dogum_tar,1990,,1990,10,20
+12256082,2,p_olum_tar,2006-2007,
+12256117,1,p_dogum_yer,leisnig,,leisnig, sachsen
+12256117,2,p_dogum_tar,1888;,
+12256117,2,p_olum_tar,1944;,
+12256138,1,p_dogum_yer,odessa,,odessa
+12256138,1,p_dogum_tar,1973,,1973,1,20
+12256138,2,p_olum_tar,2006,
+12256151,5,p_dogum_yer,,odessa
+12256151,1,p_dogum_tar,1975,,1975,1,8
+12256151,2,p_olum_tar,2006,
+12256272,5,p_dogum_yer,,harbin
+12256272,1,p_dogum_tar,1985;,1985,10,4
+12256272,2,p_olum_tar,2003,
+12256281,3,p_dogum_yer,,
+12256281,1,p_dogum_tar,1984),1984,7,6
+12256281,2,p_olum_tar,2003,
+12256288,2,p_dogum_yer,harbin,,
+12256288,1,p_dogum_tar,1979,,1979,12,24
+12256288,2,p_olum_tar,2006,
+12256289,5,p_dogum_yer,,harbin, heilongjiang
+12256289,1,p_dogum_tar,1978),1978,11,13
+12256289,2,p_olum_tar,2007),
+12256291,2,p_dogum_yer,çin'de,
+12256291,1,p_dogum_tar,1979,1979,8,15
+12256291,2,p_olum_tar,2006,
+12256296,5,p_dogum_yer,,harbin
+12256296,1,p_dogum_tar,1973),1973,9,22
+12256296,2,p_olum_tar,2007),
+12256325,3,p_dogum_yer,,
+12256325,5,p_dogum_tar,,1986,1,13
+12256325,2,p_olum_tar,2006,
+12257211,1,p_dogum_yer,slupsk),slupsk,stolp, pommern
+12257211,2,p_dogum_tar,1855,,
+12257211,2,p_olum_tar,1929,,
+12259029,3,p_dogum_yer,,
+12259029,1,p_dogum_tar,1940),,1940,04,29
+12259029,2,p_olum_tar,1997,
+12261605,1,p_dogum_yer,madrid),,madrid, ispanya
+12261605,1,p_dogum_tar,1943,,1943,9,23
+12261605,2,p_olum_tar,1963,
+12266831,5,p_dogum_yer,,bedford,ingiltere
+12266831,1,p_dogum_tar,1981),1981,2,10
+12266831,2,p_olum_tar,2009),
+12266918,5,p_dogum_yer,,istanbul,türkiye
+12266918,1,p_dogum_tar,1912,1912,04,24
+12266918,1,p_olum_tar,1978),,1978,11,17
+12269017,1,p_dogum_yer,dubrovnik,dubrovnik,hırvatistan
+12269017,1,p_dogum_tar,1980,,18 ağustos 1980
+12269017,2,p_olum_tar,2004,
+12269586,1,p_dogum_yer,kütahya,,kütahya
+12269586,1,p_dogum_tar,1979,,25 haziran 1979
+12269586,2,p_olum_tar,2004,
+12272121,1,p_dogum_yer,belfast,,belfast, kuzey irlanda
+12272121,1,p_dogum_tar,1951;,1951,6,27
+12272121,3,p_olum_tar,,
+12272234,5,p_dogum_yer,,paris, fransa
+12272234,1,p_dogum_tar,1974,,1974,5,27
+12272234,2,p_olum_tar,2001,
+12272666,1,p_dogum_yer,guadalajara),guadalajara,meksika
+12272666,1,p_dogum_tar,1986,,1986,9,28
+12272666,2,p_olum_tar,2005'te,
+12272769,5,p_dogum_yer,,massillon, ohio,massillon, ohio, amerika birleşik devletleri,abd
+12272769,1,p_dogum_tar,1983),1983 , 4 , 1
+12272769,3,p_olum_tar,,
+12272899,3,p_dogum_yer,,
+12272899,3,p_dogum_tar,,
+12272899,1,p_olum_tar,1466),,1466
+12273138,5,p_dogum_yer,,şarkiye
+12273138,4,p_dogum_tar,1974,1951,08,20
+12273138,3,p_olum_tar,,
+12274995,1,p_dogum_yer,rio,rio de janeiro,brezilya
+12274995,1,p_dogum_tar,1981,,1981,5,20
+12274995,2,p_olum_tar,2009'da,
+12275268,1,p_dogum_yer,angeles'ta,los angeles, california
+12275268,1,p_dogum_tar,1986),1986,11,30
+12275268,2,p_olum_tar,2009}},
+12275923,5,p_dogum_yer,,türkiye, samsun
+12275923,2,p_dogum_tar,kameramanlık,,
+12275923,2,p_olum_tar,-,
+12275990,5,p_dogum_yer,,san antonio, teksas
+12275990,1,p_dogum_tar,1964),,5 haziran 1964
+12275990,2,p_olum_tar,2011'de,
+12276112,4,p_dogum_yer,ezine'de,çanakkale, türkiye
+12276112,1,p_dogum_tar,1950,1950
+12276112,2,p_olum_tar,1983,
+12276117,5,p_dogum_yer,,dağıstan
+12276117,4,p_dogum_tar,1857-,1855
+12276117,4,p_olum_tar,1918'de,?
+12276641,5,p_dogum_yer,,arahal,ispanya
+12276641,1,p_dogum_tar,1964),1964,1,21
+12276641,2,p_olum_tar,2008,
+12276878,1,p_dogum_yer,kamenz'de,kamenz, almanya
+12276878,1,p_dogum_tar,1729,1729,1,22
+12276878,1,p_olum_tar,1781),,1781,2,15
+12277561,1,p_dogum_yer,donaueschingen),,donaueschingen,almanya
+12277561,1,p_dogum_tar,1978,,1978,23,11
+12277561,2,p_olum_tar,1999-00,
+12279473,4,p_dogum_yer,kızıldere'de,yeniyol, ardeşen
+12279473,4,p_dogum_tar,1971'de,1947
+12279473,1,p_olum_tar,1972,,30 mart 1972
+12279664,5,p_dogum_yer,,tunceli, türkiye
+12279664,5,p_dogum_tar,,1964
+12279664,2,p_olum_tar,2005|,
+12279957,5,p_dogum_yer,,musul, ırak
+12279957,1,p_dogum_tar,1938,,22 şubat 1938
+12279957,1,p_olum_tar,2007),20 mart 2007
+12279989,3,p_dogum_yer,,
+12279989,1,p_dogum_tar,1970).,24 şubat 1970
+12279989,2,p_olum_tar,1999,
+12280707,5,p_dogum_yer,,fransa
+12280707,1,p_dogum_tar,1949),5 mart, 1949
+12280707,2,p_olum_tar,2012,
+12281874,4,p_dogum_yer,manchester,urmston,ingiltere
+12281874,1,p_dogum_tar,1988,1988,2,24
+12281874,2,p_olum_tar,2004,
+12282920,5,p_dogum_yer,,hanover, pennsylvania, a.b.d.
+12282920,4,p_dogum_tar,kasım,1944,11,28
+12282920,2,p_olum_tar,kazandı.,
+12283001,5,p_dogum_yer,,alabama, amerika birleşik devletleri
+12283001,1,p_dogum_tar,1925-,4 eylül 1925
+12283001,4,p_olum_tar,2009}},1979,7,7
+12283956,2,p_dogum_yer,istanbul),
+12283956,1,p_dogum_tar,1968,,1968
+12283956,2,p_olum_tar,1989,
+12285289,1,p_dogum_yer,novkhani,novkhani
+12285289,2,p_dogum_tar,1919,,
+12285289,2,p_olum_tar,1944,,
+12285421,5,p_dogum_yer,,italya , floransa
+12285421,1,p_dogum_tar,1938,1938
+12285421,1,p_olum_tar,2004),28 temmuz 2004
+12286617,1,p_dogum_yer,istanbul'da,istanbul
+12286617,4,p_dogum_tar,1764'de,18 eylül 1710
+12286617,1,p_olum_tar,1788'de,21 eylül1788
+12289811,1,p_dogum_yer,sivas),,sivas, türkiye
+12289811,1,p_dogum_tar,1989;,1989,11,22
+12289811,3,p_olum_tar,,
+12290235,1,p_dogum_yer,sint,sint niklaas,belçika
+12290235,1,p_dogum_tar,1986,,1986,10,22
+12290235,2,p_olum_tar,2007-08,
+12290258,3,p_dogum_yer,,
+12290258,2,p_dogum_tar,?,
+12290258,1,p_olum_tar,anlam|1604-1606,21 haziran 1606
+12290438,5,p_dogum_yer,,derby, ingiltere
+12290438,4,p_dogum_tar,1903),27 nisan 1820
+12290438,5,p_olum_tar,,8 aralık 1903
+12290908,1,p_dogum_yer,konya),,kadınhanı, konya
+12290908,1,p_dogum_tar,1960,,1960
+12290908,2,p_olum_tar,1997–2002,
+12290916,3,p_dogum_yer,,
+12290916,1,p_dogum_tar,1723,,1723
+12290916,1,p_olum_tar,1784,şubat 1784

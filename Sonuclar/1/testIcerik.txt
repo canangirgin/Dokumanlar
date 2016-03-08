@@ -1,0 +1,1 @@
+1) Bu 586 sayfanýn dýþýnda kalan sayfalar ile sistemi eðit sonra ayný veriler ile test et. Sistemi ezberletmiþ olacaðýmýz için %100 yakýn bir sonuç almamýz gerekiyor.

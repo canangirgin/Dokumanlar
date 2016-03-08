@@ -1,0 +1,9 @@
+p_dogum_yer3,29
+p_olum_tar1,38
+p_dogum_yer2,25
+p_dogum_tar3,9
+p_dogum_tar5,1
+p_dogum_tar2,45
+p_dogum_yer5,1
+p_olum_tar4,13
+p_olum_tar5,4
